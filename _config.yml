@@ -22,11 +22,12 @@ description: Neurolgical MRI-based biomarkers for treatment navigation in depres
 navbar-links:
   About NEUROTREND: "about"
   Study design:
-    - "Ons doel" #Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - "Opzet van de studie"  #Learn markdown: "http://www.markdowntutorial.com/"
-  Participatie: "deelname"
-    - "Wie zoeken wij?"
-    - "Wat houdt deelname in?"
+    - Ons doel: "doel" #Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Opzet van de studie: "opzet"  #Learn markdown: "http://www.markdowntutorial.com/"
+  Participatie:
+    - Wie: "Wie zoeken wij?"
+    - Wat: "Wat houdt deelname in?"
+    - Waar: "Waar vindt het onderzoek plaats?"
   Milestones: "milestones"
   Partners: 'partners'
   Contact: 'contact'

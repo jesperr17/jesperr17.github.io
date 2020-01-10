@@ -13,7 +13,7 @@ Het primaire doel van het NEUROTREND onderzoek is het identificeren van MRI-geba
 <h2> Secundaire doelen </h2>
 
 <div align="justify">
-De volgende secundaire doelen zijn opgesteld voor het NEUROTREND onderzoek. Deze kunnen bijdragen aan de hoofdvraag maar zullen ook inzicht geven in de relaties tussen MRI-biomarkers en achterliggende depressiesymptomen. 
+De volgende secundaire doelen zijn opgesteld voor het NEUROTREND onderzoek. Deze kunnen bijdragen aan de hoofdvraag maar zullen ook inzicht geven in de relaties tussen MRI-biomarkers en depressiesubtypes en -symptomen. 
 </div> 
 
 

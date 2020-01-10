@@ -3,9 +3,7 @@ layout: page
 title: Ons Doel
 subtitle:
 ---
-<p>
-  <div 
-    style="text-align:center">
+<div align="center">
 
 # Primair doel
 
@@ -19,5 +17,4 @@ Het identificeren van MRI-gebaseerde biomarkers om het selectie-proces van de ju
 * Door middel van cognitieve tests verkrijgen wij gegevens over de cognitieve eigenschappen van de patiënt. Een aantal voorbeelden zijn eye-tracking-, emotiecontrole- en geheugentests. Deze informatie kunnen wij correleren aan bevindingen of veranderingen van de hersenen op de MRI scan. Ook hierbij hopen we relaties te ontdekken die zullen bijdragen aan het beantwoorden van onze hoofdvraag.
 
 
-  </div>
-</p>
+</div>

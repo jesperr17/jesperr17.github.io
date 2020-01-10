@@ -3,7 +3,7 @@ layout: page
 title: De studie opzet
 subtitle:
 ---
-<div align = "justify"><p>
+<div align = "center"><p>
 Een overzicht van de studie opzet:
 </p></div>
 

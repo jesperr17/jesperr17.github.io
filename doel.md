@@ -3,7 +3,7 @@ layout: page
 title: Ons Doel
 subtitle:
 ---
-<div align="center">
+<div align="left">
 
 <h2> Primair doel </h2>
 

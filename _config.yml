@@ -20,7 +20,7 @@ description: Neurolgical MRI-based biomarkers for treatment navigation in depres
 
 # List of links in the navigation bar
 navbar-links:
-  About NEUROTREND: "about"
+  About NEUROTREND: "aboutme"
   Study design:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"

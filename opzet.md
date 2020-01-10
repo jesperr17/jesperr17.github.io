@@ -6,8 +6,9 @@ subtitle:
 
 Een overzicht van de studie opzet:
 
-![test](img/neurotrend_studydesign.png)
-
+![design](/img/neurotrend_studydesign.png.png "Study design")
+<img src="{{ '/img/neurotrend_studydesign.png' | relative_url }}" />
+<img src="{{ 'img/neurotrend_studydesign.png' | relative_url }}" />
 <div>
-	<img src="img/profielfoto.png" />
+	<img src="/img/neurotrend_studydesign.png" />
 </div>

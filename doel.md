@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ons Doel
-[//]: #(subtitle: NEUROTREND)
+subtitle: NEUROTREND
 ---
 
 # Primair doel

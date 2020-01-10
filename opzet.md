@@ -7,6 +7,6 @@ subtitle:
 <p>
   <div 
     style="text-align:center">
-    <img src="img/Neurotrend_studydesign.png" />
+    <img src="img/neurotrend_studydesign.png" />
   </div>
 </p>

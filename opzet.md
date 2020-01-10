@@ -9,6 +9,6 @@ Een overzicht van de studie opzet:
 <p>
   <div 
     style="text-align:center">
-    <img src="img/neurotrend_studydesign.png" />
+    <img src="img/profielfoto.png">
   </div>
 </p>

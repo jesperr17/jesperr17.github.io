@@ -6,5 +6,8 @@ subtitle:
 
 Een overzicht van de studie opzet:
 
-![](img/neurotrend_studydesign.png)
+![test](img/neurotrend_studydesign.png)
 
+<p align="center">
+  <img src="img/neurotrend_studydesign">
+</p>

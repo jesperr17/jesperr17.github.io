@@ -4,7 +4,7 @@ title: Ons Doel
 subtitle:
 ---
 
-<h2> Primair doel </h2>
+<h2> Primaire doel </h2>
 
 <div align="justify">
 Het primaire doel van het NEUROTREND onderzoek is het identificeren van MRI-gebaseerde biomarkers om het selectie-proces van de juiste behandeling bij depressie te verbeteren. Deze zogenoemde MRI-gebaseerde biomarkers zijn fysiologische veranderingen of bevindingen in de hersenen die we kunnen waarnemen aan de hand van MRI-scans. Denk hierbij aan het volume, de activiteit en de connecties van en tussen verschillende hersendelen. Daarnaast zal ook de ernst van de depressie periodiek worden afgenomen zodat we de effectiviteit van de behandeling kunnen bepalen. Door de MRI-gebaseerde biomarkers en effectiviteit van de behandeling te combineren hopen we voorspellingen te kunnen doen voordat een behandeling wordt ingezet.

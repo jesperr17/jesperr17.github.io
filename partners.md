@@ -12,7 +12,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
 </div>
 
 
-<img src="{{ 'img/tuelogo.png' | relative_url }}"  style="position:relative; left:0px; top:-10px; width:40%" />
-<img src="{{ 'img/philipslogo.png' | relative_url }}"  style="position:relative; left:200px; top:-10px; width:15%" />
+<img src="{{ 'img/tuelogo.png' | relative_url }}"  style="position:relative; left:50px; top:0px; width:40%" />
+<img src="{{ 'img/philipslogo.png' | relative_url }}"  style="position:relative; left:100px; top:0px; width:15%" />
 <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}"   style="position:relative; left:100px; top:100px; width:40%" />
 <img src="{{ 'img/eindhovenenginelogo.png' | relative_url }}"  style="position:relative; left:200px; top:100px; width:35%" />

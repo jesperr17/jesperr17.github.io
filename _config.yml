@@ -66,14 +66,14 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: NEUROTREND
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  #rss: true
   email: "j.pilmeyer@tue.nl"
   #facebook: deanattali
   #github: daattali
@@ -162,7 +162,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Amsterdam"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

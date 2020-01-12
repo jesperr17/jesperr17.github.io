@@ -19,5 +19,5 @@ Wanneer de participant voldoet aan de eisen van deelname zal er een persoonlijke
 </p>
 </div>
 
-<img src="{{ 'img/studydesign.png' | relative_url }}" align="center" style = "width:90%" />
+<img src="{{ 'img/studydesign.png' | relative_url }}" align="justify" style = "width:75%" />
 

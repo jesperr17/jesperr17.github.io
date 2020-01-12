@@ -19,5 +19,5 @@ Wanneer de participant voldoet aan de eisen van deelname zal er een persoonlijke
 </p>
 
 <p style = "text-align: center" >
-<br><br><i>Een overzicht van de studie opzet:</i>
+<i>Een overzicht van de studie opzet.</i>
 </p>

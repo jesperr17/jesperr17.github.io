@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Partners
+title: Milestones
 subtitle:
 ---
 

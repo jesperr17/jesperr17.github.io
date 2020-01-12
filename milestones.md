@@ -11,5 +11,5 @@ Een schematische weergave van de belangrijkste data van het NEUROTREND onderoek:
 </div>
 
 <p>
-<img src="{{ 'img/milestones.png' | relative_url }}"  style="width:80%" style="text-align:center" />
+<img src="{{ 'img/milestones.png' | relative_url }}"  style="text-align:center; width:80%" />
 </p>

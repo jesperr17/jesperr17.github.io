@@ -12,9 +12,9 @@ Voor vragen, informatie over het onderzoek of deelname aan het onderzoek kunt u 
 
 <div align="left"> 
 <p>
-<h6><b>Jesper Pilmeyer</b></h6>
+<h4><b>Jesper Pilmeyer</b></h4>
 j.pilmeyer@tue.nl
-TU/e
+<br>TU/e
 </p>
 </div>
 

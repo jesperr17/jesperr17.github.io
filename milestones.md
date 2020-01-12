@@ -11,5 +11,5 @@ subtitle:
 </p>
 
 <p style = "text-align: center">
-<font size="2"><i>Een schematische weergave van de belangrijkste data van het NEUROTREND onderoek.</i></font>
+<font size="3"><i>Een schematische weergave van de belangrijkste data van het NEUROTREND onderoek.</i></font>
 </p>

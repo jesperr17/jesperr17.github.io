@@ -14,10 +14,10 @@ Wanneer de participant voldoet aan de eisen van deelname zal er een persoonlijke
 </p>
 </div>
 
-<p style = "text-align: center" >
-<br><br>Een overzicht van de studie opzet:
-</p>
-
 <p style="text-align:center">
 <img src="{{ 'img/studydesign.png' | relative_url }}" style= "width:75%" />
+</p>
+
+<p style = "text-align: center" >
+<br><br><i>Een overzicht van de studie opzet:</i>
 </p>

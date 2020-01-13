@@ -30,10 +30,9 @@ navbar-links:
     - Waar vindt het onderzoek plaats?: "waar"
     - Privacy-informatie en andere belangrijke zaken: "privacy"
     - Neem deel!: "neemdeel"
-  Onderzoeker:
+  Onderzoeksoutput:
+    - Milestones: "milestones"
     - Publicaties en andere output: "publicaties"
-    - Onderzoeksvragen: "onderzoeksvragen"
-  Milestones: "milestones"
   Partners: 'partners'
   Contact: 'contact'
 

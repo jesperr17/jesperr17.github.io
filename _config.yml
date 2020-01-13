@@ -28,6 +28,11 @@ navbar-links:
     - Wie zoeken wij?: "wie"
     - Wat houdt deelname in?: "wat"
     - Waar vindt het onderzoek plaats?: "waar"
+    - Privacy-informatie en andere belangrijke zaken: "privacy"
+    - Neem deel!: "neemdeel"
+  Onderzoek:
+    - Publicaties en andere output: "publicaties"
+    - Onderzoeksvragen: "onderzoeksvragen"
   Milestones: "milestones"
   Partners: 'partners'
   Contact: 'contact'

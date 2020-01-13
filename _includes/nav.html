@@ -27,7 +27,7 @@
             <div class="navlinks-children">
               {%- for childlink in link[1] -%}
               {%- for linkparts in childlink %}
-              <a href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+              <a style="font-size: 10" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
               {%- endfor -%}
               {%- endfor %}
             </div>

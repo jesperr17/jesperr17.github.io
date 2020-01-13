@@ -14,7 +14,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 
 <br><br> Tussen het eerste en het tweede bezoek nemen wij om de 3 maanden telefonisch contact met u op om een korte vragenlijst over uw behandeling/medicatiegebruik en (wanneer toepasbaar) depressiesymptomen te beantwoorden.
 
-<br>
+<br><br>
 <style type="text/css">
   table          {border:solid 5px #404040;}
   table td       {border:solid 10px #404040;}

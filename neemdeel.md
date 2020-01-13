@@ -12,7 +12,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
-  width: 100%;
+  width: 80%;
   padding: 12px;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -52,7 +52,7 @@ input[type=submit]:hover {
     <input type="text" name="name" id="Voor- en achternaam" placeholder="First and Last" required="">
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="Uw email-adres" placeholder="email@domain.tld" required="">
-    <br>
+    <br><br>
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="Commentaar of vraag" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">

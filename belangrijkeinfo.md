@@ -1,75 +1,49 @@
 ---
 layout: page
-title: Wat houdt deelname in?
+title: Belangrijke informatie
 subtitle:
 ---
 
 <div align = "justify"> 
 	<p>
-		<h2> Procedure </h2>
-
-Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een formulier moeten invullen met vragen over uw huidige gezondheidstoestand. Op grond van deze antwoorden kunt u alsnog worden uitgesloten van deelname. Wanneer dit laatste niet het geval is, zal er een afspraak voor een intakegesprek worden ingepland waarin we naar uw medische geschiedenis vragen en toetsen of u deel kunt nemen. Als dit mogelijk en u besluit vrijwillig deel te nemen, zult u worden gevraagd het toestemmingsformulier te ondertekenen. Het intakegesprek zal ongeveer een half uur duren.
-
-<br><br>Ongeveer een week na het intakegesprek komt u naar Kempenhaeghe (in Heeze) voor de eerste scan- en examinatiesessie. We starten met een aantal vragenlijsten en cognitieve taken op de computer. Daarna maken we hersenbeelden met behulp van de MRI scanner. Beide procedures vinden op dezelfde dag plaats en duren ieder een uur. Na één jaar volgt een tweede bezoek aan Kempenhaeghe waarbij we de onderzoeken en MRI scan herhalen. Dit tweede bezoek is zeer belangrijk omdat we naar veranderingen willen kijken. Als u besluit deel te nemen aan dit onderzoek is het erg belangrijk dat u ook mee doet aan dit tweede bezoek. 
-
-<br><br> Tussen het eerste en het tweede bezoek nemen wij om de 3 maanden telefonisch contact met u op om een korte vragenlijst over uw behandeling/medicatiegebruik en (wanneer toepasbaar) depressiesymptomen te beantwoorden.
-
-<br><br>
-<style type="text/css">
-  table          {border:solid 5px #404040;}
-  table td       {border:solid 10px #404040;}
-  table tr#r1  {background-color: #404040; color:white;}
-
-</style>
-
-<table style = "width:100%">
-	<tr id="r1">
-		<th> Procedure </th>
-		<th> Tijdstip </th>
-		<th> Tijdsduur </th>
-	</tr>
-	<tr id="r2">
-		<td> Intakegesprek </td>
-		<td> Dag 1 </td>
-		<td> 30 min </td>
-	</tr>
-	<tr id="r3">
-		<td> Bezoek 1: MRI-scan 2</td>
-		<td> Na 1 week </td>
-		<td> 1 uur </td>
-	</tr>	
-	<tr id="r4">
-		<td> Bezoek 1: vragenlijsten + computertaken</td>
-		<td> Na 1 week </td>
-		<td> 1 uur</td>
-	</tr>
-	<tr id="r5">
-		<td> Bezoek 2: MRI-scan 2</td>
-		<td> Na 1 jaar </td>
-		<td> 1 uur </td>
-	</tr>	
-	<tr id="r6">
-		<td> Bezoek 2: vragenlijsten + computertaken</td>
-		<td> Na 1 jaar</td>
-		<td> 1 uur </td>
-	</tr>
-</table>	
+		<h2> Privacy </h2>
+			<h3> Wordt mijn deelname aan deze studie vertrouwelijk gehouden?</h3>
+Uw identiteit en uw deelname aan dit onderzoek worden strikt vertrouwelijk behandeld. Als u besluit deel te nemen zal het minimum aan persoonlijk data worden verzameld dat nodig is voor deze studie. Om uw privacy te beschermen zal alle direct identificerende data (zoals naam, contactgegevens) gescheiden worden van de research data (zoals meetdata) en vervangen worden door een code. De direct identificerende data zal alleen gebruikt worden om u te contacteren. Personen die toegang tot de sleutel/link tussen identiteit en code hebben zijn mogelijk: 
 <br>
+<ul>
+	<li> Onderzoekers die contact met u moeten hebben in kader van dit onderzoek</li> 
+	<li> De verantwoordelijke onderzoeker</li>
+	<li> Regulerende autoriteiten of ethische commissies, die deze studie keuren en monitoren, voor zover wettelijk vereist</li> 
+</ul>
 
-<div align="justify">
-	<p>
-		<h2> Over de MRI-scan </h2>
+			<h3> Wat gebeurt er met mijn gegevens?</h3>
 
-Voor het maken van hersenbeelden gebruiken we een Philips 3T MRI scanner. Deze vorm van beeldvorming heeft geen nadelig effect op uw gezondheid en maakt geen gebruik van straling maar van een grote magneet. De scanner heeft een opening aan de voor- en de achterkant. Via een spiegel kunt u naar buiten kijken en krijgt u een scherm zien met daarop een film of taak. Tijdens de taak moet u op een knopjes drukken. Tijdens de scansessie krijgt u een koptelefoon en oordoppen in tegen het geluid van de MRI. Uw ademhaling en hartslag worden gemeten met behulp van een sensoren. In het geval van ongemak of claustrofobie, kunt u onderzoekers waarschuwen via een noodbel en zal de scan worden gestopt. U krijgt verdere instructies tijdens het bezoek.
+De MRI, hartslag en ademhaling gegevens worden opgeslagen in de database van Philips, Kempenhaeghe en de Technische Universiteit Eindhoven. Uw gegevens worden uiteraard gedeïdentificeerd. In de MRI scans wordt het gezicht verwijderd om deze onherkenbaar te maken. Alle data worden vertrouwelijk behandeld.  Alle persoonlijke gegevens zijn alleen toegankelijk voor de onderzoeker en het onderzoeksteam.  
+			
+			<h3> Wat gebeurt er als relevante informatie over mijn gezondheid wordt ontdekt tijdens de studie?</h3>
 
-</p></div> 
+Het is mogelijk dat tijdens de studie informatie wordt ontdekt over uw medische conditie waar u niet van op de hoogte bent. Door deel te nemen aan deze studie gaat u akkoord met de voorwaarde dat nieuwe informatie m.b.t. uw gezondheid met u en uw huisarts wordt gedeeld. Als u niet geïnformeerd wilt worden over nieuwe gezondheidsinformatie, stemt u niet in met eerder genoemde voorwaarde en kunt u dus niet deelnemen aan deze studie. 
 
-<div align="justify">
-	<p>
-		<h2> Informatiebrief participanten </h2>
+			<h2> Andere belangrijke informatie </h2>
+			
+				<h3> Ben ik verplicht deel te nemen? </h3>
 
-Meer details over de procedures en het onderzoek zullen worden medegedeeld in een informatiebrief voor de participanten. Hieraan staat alles uitgebreider uitgelegd. Deze wordt opgestuurd wanneer blijkt dat u kunt deelnemen aan het onderzoek, d.w.z. na het intakegesprek.
-</p>
-</div> 
+Uw deelname aan dit onderzoek is volledig vrijwillig. Indien u besluit om deel te nemen, dan zullen we u vragen het toestemmingsformulier te ondertekenen. Dit formulier zal eveneens getekend worden door degene die het onderzoek uitvoert. Van het getekende formulier krijgt u een kopie die u samen met deze vrijwilligersinformatie voor uw eigen administratie kunt bewaren. 
 
+			<h3> Kan ik mijn deelname aan het onderzoek ook stoppen? </h3>
+
+Uw deelname aan het onderzoek kan om verschillende redenen stoppen. Allereerst omdat u zelf besluit te stoppen. Dat kan op elk moment. U zult door de onderzoeker gevraagd worden waarom u wilt stoppen, maar u hoeft daarvoor geen reden op te geven wanneer u dat niet wilt. 
+
+ 			<h3> Ben ik verzekerd wanneer ik aan het onderzoek meedoe? </h3>
+
+Voor iedereen die meedoet aan dit onderzoek is een verzekering afgesloten. De verzekering dekt schade die het gevolg is van het onderzoek. Dit geldt voor schade die naar boven komt tijdens het onderzoek, of binnen vier jaar na het einde van het onderzoek.  
+
+
+			<h3> Wat zijn mogelijke nadelen van deelname aan dit onderzoek? </h3>
+
+Van een MRI onderzoek worden geen nadelige gevolgen verwacht omdat deze manier van beeldvorming geen straling gebruikt maar een elektromagnetisme.
+
+			<h3> Is er een vergoeding voor deelname aan dit onderzoek? </h3>
+
+Ja, reiskosten zullen vergoed worden met €0,19/km. Verder zult u een bijdrage ontvangen voor deelname aan het onderzoek ter waarde van € ... .
 

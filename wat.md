@@ -62,14 +62,14 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 
 Voor het maken van hersenbeelden gebruiken we een Philips 3T MRI scanner. Deze vorm van beeldvorming heeft geen nadelig effect op uw gezondheid en maakt geen gebruik van straling maar van een grote magneet. De scanner heeft een opening aan de voor- en de achterkant. Via een spiegel kunt u naar buiten kijken en krijgt u een scherm zien met daarop een film of taak. Tijdens de taak moet u op een knopjes drukken. Tijdens de scansessie krijgt u een koptelefoon en oordoppen in tegen het geluid van de MRI. Uw ademhaling en hartslag worden gemeten met behulp van een sensoren. In het geval van ongemak of claustrofobie, kunt u onderzoekers waarschuwen via een noodbel en zal de scan worden gestopt. U krijgt verdere instructies tijdens het bezoek.
 
-</div> 
+</p></div> 
 
 <div align="justify">
 	<p>
 		<h2> Informatiebrief participanten </h2>
 
 Meer details over de procedures en het onderzoek zullen worden medegedeeld in een informatiebrief voor de participanten. Hieraan staat alles uitgebreider uitgelegd. Deze wordt opgestuurd wanneer blijkt dat u kunt deelnemen aan het onderzoek, d.w.z. na het intakegesprek.
-
+</p>
 </div> 
 
 

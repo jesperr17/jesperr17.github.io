@@ -15,7 +15,7 @@ input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 15px;
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
@@ -36,7 +36,7 @@ input[type=submit]:hover {
 }
 
 .container {
-  width: 100%;
+  width: 60%;
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;

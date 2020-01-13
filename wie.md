@@ -13,7 +13,7 @@ Voor ons onderzoek zijn wij op zoek naar participanten met en zonder depressie. 
 <h2> Exclusiecriteria </h2>
 <div align="justify">
 	Participanten worden onder andere geëxcludeerd in het geval van:
-	<br>
+	<br><br>
 	<ul>
 		<li>Hersenletsel of hersenbloedingen</li> 
 		<li>Pacemaker of implantaat die niet MRI veilig is</li> 

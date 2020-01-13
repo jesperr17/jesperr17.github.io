@@ -9,7 +9,7 @@ subtitle:
 		<h2> Privacy </h2>
 			<h3> Wordt mijn deelname aan deze studie vertrouwelijk gehouden?</h3>
 Uw identiteit en uw deelname aan dit onderzoek worden strikt vertrouwelijk behandeld. Als u besluit deel te nemen zal het minimum aan persoonlijk data worden verzameld dat nodig is voor deze studie. Om uw privacy te beschermen zal alle direct identificerende data (zoals naam, contactgegevens) gescheiden worden van de research data (zoals meetdata) en vervangen worden door een code. De direct identificerende data zal alleen gebruikt worden om u te contacteren. Personen die toegang tot de sleutel/link tussen identiteit en code hebben zijn mogelijk: 
-
+<br>
 <ul>
 	<li> Onderzoekers die contact met u moeten hebben in kader van dit onderzoek</li> 
 	<li> De verantwoordelijke onderzoeker</li>

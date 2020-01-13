@@ -52,8 +52,10 @@ input[type=submit]:hover {
     <label for="full-name">Voor- en achternaam</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
     <label for="email-address">Uw email-adres</label>
-    <br><input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <br><label for="message">Commentaar of vragen</label>
+    <br>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <br><br>
+    <label for="message">Commentaar of vragen</label>
     <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>

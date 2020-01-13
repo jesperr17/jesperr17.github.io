@@ -24,13 +24,13 @@ navbar-links:
   Study design:
     - Ons doel: "doel" #Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Opzet van de studie: "opzet"  #Learn markdown: "http://www.markdowntutorial.com/"
-  Participatie:
+  Participant:
     - Wie zoeken wij?: "wie"
     - Wat houdt deelname in?: "wat"
     - Waar vindt het onderzoek plaats?: "waar"
     - Privacy-informatie en andere belangrijke zaken: "privacy"
     - Neem deel!: "neemdeel"
-  Onderzoek:
+  Onderzoeker:
     - Publicaties en andere output: "publicaties"
     - Onderzoeksvragen: "onderzoeksvragen"
   Milestones: "milestones"

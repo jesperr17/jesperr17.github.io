@@ -17,7 +17,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 <br>
 <style type="text/css">
   table          {border:solid 5px #404040;}
-  table td       {border:solid 3px #404040;}
+  table td       {border:solid 10px #404040;}
   table tr#r1  {background-color: #404040; color:white;}
 
 </style>

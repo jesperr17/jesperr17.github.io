@@ -13,10 +13,11 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 <br><br>Ongeveer een week na het intakegesprek komt u naar Kempenhaeghe (in Heeze) voor de eerste scan- en examinatiesessie. We starten met een aantal vragenlijsten en cognitieve taken op de computer. Daarna maken we hersenbeelden met behulp van de MRI scanner. Beide procedures vinden op dezelfde dag plaats en duren ieder een uur. Na één jaar volgt een tweede bezoek aan Kempenhaeghe waarbij we de onderzoeken en MRI scan herhalen. Dit tweede bezoek is zeer belangrijk omdat we naar veranderingen willen kijken. Als u besluit deel te nemen aan dit onderzoek is het erg belangrijk dat u ook mee doet aan dit tweede bezoek. 
 
 <br><br> Tussen het eerste en het tweede bezoek nemen wij om de 3 maanden telefonisch contact met u op om een korte vragenlijst over uw behandeling/medicatiegebruik en (wanneer toepasbaar) depressiesymptomen te beantwoorden.
+
 <br>
 <style type="text/css">
   table          {border:solid 5px #404040;}
-  table th       {border:solid 2px #404040;}
+  table td       {border:solid 3px #404040;}
   table tr#r1  {background-color: #404040; color:white;}
 
 </style>
@@ -28,7 +29,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 		<th> Tijdsduur </th>
 	</tr>
 	<tr id="r2">
-		<td> Intakgesprek </td>
+		<td> Intakegesprek </td>
 		<td> Dag 1 </td>
 		<td> 30 min </td>
 	</tr>

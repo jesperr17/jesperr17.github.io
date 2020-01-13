@@ -27,8 +27,8 @@ navbar-links:
   Participant:
     - Wie zoeken wij?: "wie"
     - Wat houdt deelname in?: "wat"
-    - Waar vindt het onderzoek plaats?: "waar"
     - Privacy-informatie en andere belangrijke zaken: "privacy"
+    - Waar vindt het onderzoek plaats?: "waar"
     - Neem deel!: "neemdeel"
   Onderzoek:
     - Milestones: "milestones"

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Waar vindt het onderzoek plaats?
+title: Locatie
 subtitle:
 ---
 
 <div align = "justify"> 
 	<p>
-		<h2> Locatie </h2>
+		<h2> Waar vindt het onderzoek plaats? </h2>
 
 Het onderzoek zal plaatsvinden op epilepsie- en slaapcentrum Kempenhaeghe in Heeze. Dit houdt in dat beide scan- en examinatiesessies als ook het intakegesprek hier zullen plaatsvinden. Kempenhaeghe beschikt over de Philips scanner en de software voor de computertaken. Het adres en de contactgegevens zijn als volgt:
 

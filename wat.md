@@ -55,6 +55,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 	</tr>
 </table>	
 <br>
+
 <div align="justify">
 	<p>
 		<h2> Over de MRI-scan </h2>
@@ -63,5 +64,12 @@ Voor het maken van hersenbeelden gebruiken we een Philips 3T MRI scanner. Deze v
 
 </div> 
 
+<div align="justify">
+	<p>
+		<h2> Informatiebrief participanten </h2>
+
+Meer details over de procedures en het onderzoek zullen worden medegedeeld in een informatiebrief voor de participanten. Hieraan staat alles uitgebreider uitgelegd. Deze wordt opgestuurd wanneer blijkt dat u kunt deelnemen aan het onderzoek, d.w.z. na het intakegesprek.
+
+</div> 
 
 

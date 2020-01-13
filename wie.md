@@ -11,7 +11,6 @@ Voor ons onderzoek zijn wij op zoek naar participanten met en zonder depressie. 
 </div>
 
 <h2> Exclusiecriteria </h2>
-
 <div align="justify">
 	<p>
 	Participanten worden onder andere geëxcludeerd in het geval van:

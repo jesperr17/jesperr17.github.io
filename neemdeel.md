@@ -53,6 +53,7 @@ input[type=submit]:hover {
   border-radius: 15px;
   background-color: #f2f2f2;
   padding: 20px;
+  text-align: center;
 }
 </style>
 </head>

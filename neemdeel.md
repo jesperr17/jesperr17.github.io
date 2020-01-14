@@ -19,7 +19,6 @@ input[type=text], select, textarea {
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
-  margin-left: -100px;
   resize: vertical;
 }
 
@@ -31,7 +30,6 @@ input[type=email], select, textarea {
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
-  margin-left: -100px;
   resize: vertical;
 }
 

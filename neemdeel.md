@@ -67,13 +67,14 @@ input[type=submit]:hover {
     <input type="text" name="name" id="full-name" placeholder="Vul hier uw voor- en achternaam in" required="">
     
     <label for="email-address"> Uw email-adres </label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domein.com" required="">
+    <input type="email" name="emailadres" id="email-address" placeholder="email@domein.com" required="">
 
     <label for="age"> Leeftijd </label>
-    <input type="text" name="name" id="age" placeholder="Vul hier uw leeftijd in." required="">
+    <input type="text" name="age" id="age" placeholder="Vul hier uw leeftijd in." required="">
    
     <label for="geslacht"> Geslacht </label>
     <select>
+    <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="man">Man</option>
     <option value="vrouw">Vrouw</option>
     <option value="anders">Anders</option>
@@ -81,6 +82,7 @@ input[type=submit]:hover {
 
     <label for="onderzoeksgroep"> Ik neem deel als: </label>
     <select>
+    <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="depressie">Gezonde controle-participant</option>
     <option value="controle">Participant met een depressie</option>
     </select>

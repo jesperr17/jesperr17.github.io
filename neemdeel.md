@@ -78,18 +78,18 @@ input[type=submit]:hover {
     <option value="man">Man</option>
     <option value="vrouw">Vrouw</option>
     <option value="anders">Anders</option>
-    </select><br>
+    </select><br><br>
 
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
     <select id="onderzoeksgroep" required="">
     <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="depressie">Gezonde controle-participant</option>
     <option value="controle">Participant met een depressie</option>
-    </select><br>
+    </select><br><br>
 
     <label for="message">Commentaar of vragen</label>
     <textarea rows="5" name="message" id="message" placeholder="Vul hier uw commentaar of vragen in." ></textarea>
-    <label style="font-size: 10"> <sup>*</sup> <i>Deze velden moeten worden ingevuld ! </i></label>
+    <label style="font-size: 7"> <sup>*</sup> <i>Deze velden moeten worden ingevuld ! </i></label><br>
     <input type="hidden" name="_subject" id="email-subject" value="NEUROTREND: Een nieuwe aanmelding">
   </fieldset>
   <input type="submit" value="Verzend">

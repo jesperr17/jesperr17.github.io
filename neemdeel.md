@@ -30,6 +30,8 @@ input[type=email], select, textarea {
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
+  margin-left: auto;
+  margin-right: auto;
   resize: vertical;
 }
 

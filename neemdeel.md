@@ -19,7 +19,7 @@ input[type=text], select, textarea {
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
-  margin-left: -100px;
+  margin-left: -50px;
   resize: vertical;
 }
 
@@ -31,7 +31,7 @@ input[type=email], select, textarea {
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
-  margin-left: -100px;
+  margin-left: -50px;
   resize: vertical;
 }
 
@@ -43,12 +43,16 @@ input[type=submit] {
   border: none;
   border-radius: 15px;
   cursor: pointer;
+  margin-left: -50px;
 }
 
 input[type=submit]:hover {
   background-color: #45a049;
 }
 
+label { margin-left: -50px;
+
+}
 
 .container {
   width: 80%;
@@ -65,7 +69,7 @@ input[type=submit]:hover {
 <div class="container">
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/j.pilmeyer@tue.nl" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name"> Voor- en achternaam <sup>*</sup> </label>
+    <label for="full-name" m > Voor- en achternaam <sup>*</sup> </label>
     <input type="text" name="Naam" id="full-name" placeholder="Vul hier uw voor- en achternaam in" required="">
     
     <label for="email-address"> Email-adres <sup>*</sup></label>

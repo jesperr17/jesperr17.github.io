@@ -23,7 +23,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 
 </style>
 
-<table style = "width:100%" align="center">
+<table style = "width:80%" align="center">
 	<tr id="r1">
 		<th> Procedure </th>
 		<th> Tijdstip </th>

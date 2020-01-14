@@ -12,7 +12,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 * {box-sizing: border-box;}
 
 input[type=text], select, textarea {
-  width: 100%;
+  width: 130%;
   padding: 12px;
   border: 1px solid #ccc;
   border-radius: 15px;
@@ -23,7 +23,7 @@ input[type=text], select, textarea {
 }
 
 input[type=email], select, textarea {
-  width: 100%;
+  width: 130%;
   padding: 12px;
   border: 1px solid #ccc;
   border-radius: 15px;

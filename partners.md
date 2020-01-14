@@ -16,7 +16,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
 
 
 <br />
-<table cellspacing="0" cellpadding="0" border="0">
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse" >
     <tr>
         <td style="text-align: center;">
             <img src="{{ 'img/tuelogo.png' | relative_url }}"  style="width:40%" />

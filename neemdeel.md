@@ -39,7 +39,7 @@ input[type=submit] {
   color: white;
   padding: 12px 20px;
   border: none;
-  border-radius: 4px;
+  border-radius: 15px;
   cursor: pointer;
 }
 
@@ -71,21 +71,22 @@ input[type=submit]:hover {
 
     <label for="age"> Leeftijd </label>
     <input type="text" name="age" id="age" placeholder="Vul hier uw leeftijd in." required="">
-   
+    <fieldset id="fs-frm-selects>
     <label for="geslacht"> Geslacht  <sup>*</sup></label>
     <select>
     <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="man">Man</option>
     <option value="vrouw">Vrouw</option>
     <option value="anders">Anders</option>
-    </select>
+    </select><br>
 
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
     <select>
     <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="depressie">Gezonde controle-participant</option>
     <option value="controle">Participant met een depressie</option>
-    </select>
+    </select><br>
+    </fieldset>
 
     <label for="message">Commentaar of vragen</label>
     <textarea rows="5" name="message" id="message" placeholder="Vul hier uw commentaar of vragen in." ></textarea>

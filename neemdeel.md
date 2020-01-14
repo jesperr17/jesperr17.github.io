@@ -20,7 +20,6 @@ input[type=text], select, textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
-  text-align: center;
 }
 
 input[type=email], select, textarea {
@@ -32,7 +31,6 @@ input[type=email], select, textarea {
   margin-top: 6px;
   margin-bottom: 16px;
   resize: vertical;
-  text-align: center;
 }
 
 

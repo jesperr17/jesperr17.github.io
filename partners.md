@@ -5,6 +5,21 @@ subtitle:
 ---
 
 
+
+
+<div align="center"> 
+<p>
+De volgende partners nemen deel aan het NEUROTREND onderzoek:
+</p>
+</div>
+
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
 .column {
   float: left;
   width: 50%;
@@ -16,12 +31,6 @@ subtitle:
   clear: both;
   display: table;
 }
-
-<div align="center"> 
-<p>
-De volgende partners nemen deel aan het NEUROTREND onderzoek:
-</p>
-</div>
 
 <div class="row">
   <div class="column">

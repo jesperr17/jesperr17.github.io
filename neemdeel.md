@@ -66,10 +66,10 @@ input[type=submit]:hover {
     <label for="full-name"> Voor- en achternaam <sup>*</sup> </label>
     <input type="text" name="Naam" id="full-name" placeholder="Vul hier uw voor- en achternaam in" required="">
     
-    <label for="email-address"> Uw email-adres <sup>*</sup></label>
+    <label for="email-address"> Email-adres <sup>*</sup></label>
     <input type="email" name="Email-adres" id="email-address" placeholder="email@domein.com" required="">
 
-    <label for="telnr"> Uw telefoonnummer (hiermee nemen wij contact op) <sup>*</sup></label>
+    <label for="telnr"> Telefoonnummer (hiermee nemen wij contact op) <sup>*</sup></label>
     <input type="text" name="Telefoonnummer" id="telnr" placeholder=" 06-12345678" required="">
 
     <label for="geslacht"> Geslacht  <sup>*</sup></label>
@@ -81,7 +81,7 @@ input[type=submit]:hover {
     </select><br>
 
     <label for="age"> Leeftijd <sup>*</sup></label>
-    <input type="text" name="Leeftijd" id="age" placeholder="Vul hier uw leeftijd in." required="">
+    <input type="text" name="Leeftijd" id="age" placeholder="Vul hier uw leeftijd in" required="">
   
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
     <select id="onderzoeksgroep" required="" name="Onderzoeksgroep">
@@ -91,7 +91,7 @@ input[type=submit]:hover {
     </select><br><br>
 
     <label for="message">Opmerking of vragen</label>
-    <textarea rows="5" name="Opmerkingen of vragen" id="message" placeholder="Vul hier uw opmerkingen of vragen in." ></textarea>
+    <textarea rows="5" name="Opmerkingen of vragen" id="message" placeholder="Vul hier uw opmerkingen of vragen in" ></textarea>
     <label style="font-size: 13"> <sup>*</sup> <i>Deze velden moeten worden ingevuld ! </i></label><br><br>
     <input type="hidden" name="_subject" id="email-subject" value="NEUROTREND: Een nieuwe aanmelding">
   </fieldset>

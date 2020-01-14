@@ -16,7 +16,7 @@ Ja, uw identiteit en uw deelname aan dit onderzoek worden strikt vertrouwelijk b
 	<li> Regulerende autoriteiten of ethische commissies, die deze studie keuren en monitoren, voor zover wettelijk vereist</li> 
 </ul>
 
-			<h4> Wat gebeurt er met mijn gegevens?</h4>
+			<br><h4> Wat gebeurt er met mijn gegevens?</h4>
 
 De MRI, hartslag en ademhaling gegevens worden opgeslagen in de database van Philips, Kempenhaeghe en de Technische Universiteit Eindhoven. Uw gegevens worden uiteraard gedeïdentificeerd. In de MRI scans wordt het gezicht verwijderd om deze onherkenbaar te maken. Alle data worden vertrouwelijk behandeld.  Alle persoonlijke gegevens zijn alleen toegankelijk voor de onderzoeker en het onderzoeksteam.  
 			

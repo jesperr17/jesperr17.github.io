@@ -18,11 +18,12 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 <style type="text/css">
   table          {border:solid 5px #404040;}
   table td       {border:solid 10px #404040;}
+  table th       {padding: 10px;}
   table tr#r1  {background-color: #404040; color:white;}
 
 </style>
 
-<table style = "width:70%" align="center">
+<table style = "width:100%" align="center">
 	<tr id="r1">
 		<th> Procedure </th>
 		<th> Tijdstip </th>

@@ -86,8 +86,8 @@ input[type=submit]:hover {
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
     <select id="onderzoeksgroep" required="" name="Onderzoeksgroep">
     <option value="" selected="" disabled="">Maak een keuze</option>
-    <option value="depressie">Gezonde controle-participant</option>
-    <option value="controle">Participant met een depressie</option>
+    <option value="controle">Participant: Gezonde controlegroep</option>
+    <option value="depressie">Participant: Depressie</option>
     </select><br><br>
 
     <label for="message">Opmerking of vragen</label>

@@ -22,6 +22,18 @@ input[type=text], select, textarea {
   resize: vertical;
 }
 
+input[type=email], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+
 input[type=submit] {
   background-color: #4CAF50;
   color: white;
@@ -35,9 +47,10 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
+
 .container {
   width: 80%;
-  border-radius: 5px;
+  border-radius: 15px;
   background-color: #f2f2f2;
   padding: 20px;
 }
@@ -49,14 +62,24 @@ input[type=submit]:hover {
 <div class="container">
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/j.pilmeyer@tue.nl" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Voor- en achternaam</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Uw email-adres</label>
-    <br>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <br><br>
+    <label for="full-name"> Voor- en achternaam </label>
+    <input type="text" name="name" id="full-name" placeholder="Vul hier uw voor- en achternaam in" required="">
+    
+    <label for="email-address"> Uw email-adres </label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domein.com" required="">
+
+    <label for="age"> Leeftijd </label>
+    <input type="text" name="name" id="age" placeholder="Vul hier uw leeftijd in." required="">
+   
+    <label for="geslacht"> Geslacht </label>
+    <select>
+    <option value="man">Man</option>
+    <option value="vrouw">Vrouw</option>
+    <option value="anders">Anders</option>
+    </select>
+
     <label for="message">Commentaar of vragen</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Vul hier uw commentaar of vragen in." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">

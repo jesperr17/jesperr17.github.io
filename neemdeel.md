@@ -70,7 +70,7 @@ input[type=submit]:hover {
     <input type="email" name="emailadres" id="email-address" placeholder="email@domein.com" required="">
 
     <label for="geslacht"> Geslacht  <sup>*</sup></label>
-    <select id="geslacht" required="">
+    <select id="geslacht" required="" name="Geslacht">
     <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="man">Man</option>
     <option value="vrouw">Vrouw</option>
@@ -81,11 +81,11 @@ input[type=submit]:hover {
     <input type="text" name="age" id="age" placeholder="Vul hier uw leeftijd in." required="">
   
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
-    <select id="onderzoeksgroep" required="">
+    <select id="onderzoeksgroep" required="" name="Onderzoeksgroep">
     <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="depressie">Gezonde controle-participant</option>
     <option value="controle">Participant met een depressie</option>
-    </select><br>
+    </select><br><br>
 
     <label for="message">Commentaar of vragen</label>
     <textarea rows="5" name="message" id="message" placeholder="Vul hier uw commentaar of vragen in." ></textarea>

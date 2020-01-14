@@ -89,7 +89,7 @@ input[type=submit]:hover {
 
     <label for="message">Commentaar of vragen</label>
     <textarea rows="5" name="message" id="message" placeholder="Vul hier uw commentaar of vragen in." ></textarea>
-    <label style="font-size: 13"> <sup>*</sup> <i>Deze velden moeten worden ingevuld ! </i></label>
+    <label style="font-size: 10"> <sup>*</sup> <i>Deze velden moeten worden ingevuld ! </i></label>
     <input type="hidden" name="_subject" id="email-subject" value="NEUROTREND: Een nieuwe aanmelding">
   </fieldset>
   <input type="submit" value="Verzend">

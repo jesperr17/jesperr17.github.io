@@ -64,10 +64,10 @@ input[type=submit]:hover {
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/j.pilmeyer@tue.nl" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name"> Voor- en achternaam <sup>*</sup> </label>
-    <input type="text" name="name" id="full-name" placeholder="Vul hier uw voor- en achternaam in" required="">
+    <input type="text" name="Naam" id="full-name" placeholder="Vul hier uw voor- en achternaam in" required="">
     
     <label for="email-address"> Uw email-adres <sup>*</sup></label>
-    <input type="email" name="emailadres" id="email-address" placeholder="email@domein.com" required="">
+    <input type="email" name="Email-adres" id="email-address" placeholder="email@domein.com" required="">
 
     <label for="geslacht"> Geslacht  <sup>*</sup></label>
     <select id="geslacht" required="" name="Geslacht">
@@ -77,8 +77,8 @@ input[type=submit]:hover {
     <option value="anders">Anders</option>
     </select><br>
 
-    <label for="age"> Leeftijd </label>
-    <input type="text" name="age" id="age" placeholder="Vul hier uw leeftijd in." required="">
+    <label for="age"> Leeftijd <sup>*</sup></label>
+    <input type="text" name="Leeftijd" id="age" placeholder="Vul hier uw leeftijd in." required="">
   
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
     <select id="onderzoeksgroep" required="" name="Onderzoeksgroep">
@@ -87,8 +87,8 @@ input[type=submit]:hover {
     <option value="controle">Participant met een depressie</option>
     </select><br><br>
 
-    <label for="message">Commentaar of vragen</label>
-    <textarea rows="5" name="message" id="message" placeholder="Vul hier uw commentaar of vragen in." ></textarea>
+    <label for="message">Opmerking of vragen</label>
+    <textarea rows="5" name="Opmerkingen of vragen" id="message" placeholder="Vul hier uw opmerkingen of vragen in." ></textarea>
     <label style="font-size: 13"> <sup>*</sup> <i>Deze velden moeten worden ingevuld ! </i></label><br><br>
     <input type="hidden" name="_subject" id="email-subject" value="NEUROTREND: Een nieuwe aanmelding">
   </fieldset>

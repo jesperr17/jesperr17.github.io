@@ -24,7 +24,7 @@ De MRI, hartslag en ademhaling gegevens worden opgeslagen in de database van Phi
 
 Het is mogelijk dat tijdens de studie informatie wordt ontdekt over uw medische conditie waar u niet van op de hoogte bent. Door deel te nemen aan deze studie gaat u akkoord met de voorwaarde dat nieuwe informatie m.b.t. uw gezondheid met u en uw huisarts wordt gedeeld. Als u niet geïnformeerd wilt worden over nieuwe gezondheidsinformatie, stemt u niet in met eerder genoemde voorwaarde en kunt u dus niet deelnemen aan deze studie. 
 
-			<h3> Andere belangrijke informatie </h3>
+			<h1> Andere belangrijke informatie </h1>
 			
 				<br><h3> Ben ik verplicht deel te nemen? </h3>
 

@@ -86,7 +86,7 @@ input[type=submit]:hover {
     </select>
 
     <label for="message">Commentaar of vragen</label>
-    <textarea rows="5" name="message" id="message" placeholder="Vul hier uw commentaar of vragen in." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Vul hier uw commentaar of vragen in." ></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">

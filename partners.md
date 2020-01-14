@@ -17,3 +17,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
 <p>
  <img src="{{ 'img/logos.png' | relative_url }}"  style="width:80%; text-align: center;" />
 </p>
+
+<p style="text-align:center">
+<img src="{{ 'img/studydesign.png' | relative_url }}" style= "width:75%" />
+</p>

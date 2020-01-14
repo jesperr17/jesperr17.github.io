@@ -74,7 +74,7 @@ input[type=submit]:hover {
 
     <label for="geslacht"> Geslacht  <sup>*</sup></label>
     <select id="geslacht" required="" name="Geslacht">
-    <option value="kies" selected="" disabled="">Maak een keuze</option>
+    <option value="" selected="" disabled="">Maak een keuze</option>
     <option value="man">Man</option>
     <option value="vrouw">Vrouw</option>
     <option value="anders">Anders</option>
@@ -85,7 +85,7 @@ input[type=submit]:hover {
   
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
     <select id="onderzoeksgroep" required="" name="Onderzoeksgroep">
-    <option value="kies" selected="" disabled="">Maak een keuze</option>
+    <option value="" selected="" disabled="">Maak een keuze</option>
     <option value="depressie">Gezonde controle-participant</option>
     <option value="controle">Participant met een depressie</option>
     </select><br><br>

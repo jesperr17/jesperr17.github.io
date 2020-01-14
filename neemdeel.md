@@ -63,16 +63,16 @@ input[type=submit]:hover {
 <div class="container">
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/j.pilmeyer@tue.nl" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name"> Voor- en achternaam </label>
+    <label for="full-name"> Voor- en achternaam <sup>*</sup> </label>
     <input type="text" name="name" id="full-name" placeholder="Vul hier uw voor- en achternaam in" required="">
     
-    <label for="email-address"> Uw email-adres </label>
+    <label for="email-address"> Uw email-adres <sup>*</sup></label>
     <input type="email" name="emailadres" id="email-address" placeholder="email@domein.com" required="">
 
     <label for="age"> Leeftijd </label>
     <input type="text" name="age" id="age" placeholder="Vul hier uw leeftijd in." required="">
    
-    <label for="geslacht"> Geslacht </label>
+    <label for="geslacht"> Geslacht  <sup>*</sup></label>
     <select>
     <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="man">Man</option>
@@ -80,7 +80,7 @@ input[type=submit]:hover {
     <option value="anders">Anders</option>
     </select>
 
-    <label for="onderzoeksgroep"> Ik neem deel als: </label>
+    <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
     <select>
     <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="depressie">Gezonde controle-participant</option>

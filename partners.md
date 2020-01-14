@@ -21,22 +21,6 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
     padding: 20px;
   }
 
-body {
-  background-color: #343434;
-}
-
-#cover {
-  width: 100%;
-  margin: 0 auto;
-}
-
-#cover > img {
-  float: left;
-  border: 2px solid black;
-  width: 45%;
-  margin: 1.66%;
-}
-
 </html>
 </head>
 </style>
@@ -65,9 +49,15 @@ body {
     </tr>
 </table>
 
-<div id="cover">
+
+<div class="container-fluid">
+  <h2>Row Cols</h2>
+  <p>The .row-cols-* classes are used to set the number of columns that should appear next to each other.</p>
+
+  <div class="row row-cols-2">
   <img src="{{ 'img/tuelogo.png' | relative_url }}"  style="width:40%" />
   <img src="{{ 'img/philipslogo.png' | relative_url }}"  style="width:15%" />
   <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}"   style="width:40%" />
   <img src="{{ 'img/eindhovenenginelogo.png' | relative_url }}"  style="width:30%" />
+  </div>
 </div>

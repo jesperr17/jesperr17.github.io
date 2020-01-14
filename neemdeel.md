@@ -31,7 +31,7 @@ input[type=email], select, textarea {
   box-sizing: border-box;
   margin-top: 6px;
   margin-bottom: 16px;
-  margin-left: -75px;
+  margin-left: -50px;
   resize: vertical;
 }
 
@@ -43,14 +43,14 @@ input[type=submit] {
   border: none;
   border-radius: 15px;
   cursor: pointer;
-  margin-left: -75px;
+  margin-left: -50px;
 }
 
 input[type=submit]:hover {
   background-color: #45a049;
 }
 
-label { margin-left: -75px;
+label { margin-left: -50px;
 
 }
 

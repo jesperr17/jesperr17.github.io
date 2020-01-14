@@ -88,7 +88,7 @@ input[type=submit]:hover {
     <option value="" selected="" disabled="">Maak een keuze</option>
     <option value="controle">Participant: Gezonde controlegroep</option>
     <option value="depressie">Participant: Depressie</option>
-    </select><br><br>
+    </select><br>
 
     <label for="message">Opmerking of vragen</label>
     <textarea rows="5" name="Opmerkingen of vragen" id="message" placeholder="Vul hier uw opmerkingen of vragen in" ></textarea>

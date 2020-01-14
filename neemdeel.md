@@ -71,9 +71,9 @@ input[type=submit]:hover {
 
     <label for="age"> Leeftijd </label>
     <input type="text" name="age" id="age" placeholder="Vul hier uw leeftijd in." required="">
-    <fieldset id="fs-frm-selects>
+    
     <label for="geslacht"> Geslacht  <sup>*</sup></label>
-    <select>
+    <select id="geslacht" required="">
     <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="man">Man</option>
     <option value="vrouw">Vrouw</option>
@@ -81,18 +81,17 @@ input[type=submit]:hover {
     </select><br>
 
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
-    <select>
+    <select id="onderzoeksgroep" required="">
     <option value="kies" selected="" disabled="">Maak een keuze</option>
     <option value="depressie">Gezonde controle-participant</option>
     <option value="controle">Participant met een depressie</option>
     </select><br>
-    </fieldset>
 
     <label for="message">Commentaar of vragen</label>
     <textarea rows="5" name="message" id="message" placeholder="Vul hier uw commentaar of vragen in." ></textarea>
     <label style="font-size: 13"> <sup>*</sup> <i>Deze velden moeten worden ingevuld ! </i></label>
     <input type="hidden" name="_subject" id="email-subject" value="NEUROTREND: Een nieuwe aanmelding">
   </fieldset>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Verzend">
 </form>
 </div>

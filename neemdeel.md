@@ -69,6 +69,9 @@ input[type=submit]:hover {
     <label for="email-address"> Uw email-adres <sup>*</sup></label>
     <input type="email" name="Email-adres" id="email-address" placeholder="email@domein.com" required="">
 
+    <label for="telnr"> Uw telefoonnummer (hiermee nemen wij contact op) <sup>*</sup></label>
+    <input type="text" name="Telefoonnummer" id="telnr" placeholder=" 06-12345678" required="">
+
     <label for="geslacht"> Geslacht  <sup>*</sup></label>
     <select id="geslacht" required="" name="Geslacht">
     <option value="kies" selected="" disabled="">Maak een keuze</option>

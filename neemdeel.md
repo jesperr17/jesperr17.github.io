@@ -58,7 +58,8 @@ input[type=submit]:hover {
 </head>
 <body>
 
-<h2> Vul de onderstaande gegevens in en dan zullen wij contact met u opnemen! </h2>
+<h2 align="center"> Vul de onderstaande gegevens in en dan zullen wij contact met u opnemen! </h2>
+
 <div class="container">
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/j.pilmeyer@tue.nl" method="post">
   <fieldset id="fs-frm-inputs">
@@ -76,6 +77,12 @@ input[type=submit]:hover {
     <option value="man">Man</option>
     <option value="vrouw">Vrouw</option>
     <option value="anders">Anders</option>
+    </select>
+
+    <label for="onderzoeksgroep"> Ik neem deel als: </label>
+    <select>
+    <option value="depressie">Gezonde controle-participant</option>
+    <option value="controle">Participant met een depressie</option>
     </select>
 
     <label for="message">Commentaar of vragen</label>

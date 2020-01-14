@@ -18,7 +18,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
 <style>
  td {
     margin: 10px;
-    padding: 50px;
+    padding: 20px;
   }
 
 </html>

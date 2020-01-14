@@ -13,10 +13,20 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
 </p>
 </div>
 
+<html>
+<head>
+<style>
+ td {
+    margin: 10px;
+    padding: 50px;
+  }
 
+</html>
+</head>
+</style>
 
 <br />
-<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse" >
+<table cellspacing="0" cellpadding="0" border="0" >
     <tr>
         <td style="text-align: center;">
             <img src="{{ 'img/tuelogo.png' | relative_url }}"  style="width:40%" />

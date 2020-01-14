@@ -38,13 +38,35 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
 
 <div class="row">
   <div class="column">
-    <img src="{{ 'img/tuelogo.png' | relative_url }}"  style="width:100%" />
-    <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}"   style="width:100%" />
+    <img src="{{ 'img/tuelogo.png' | relative_url }}"  style="width:40%" />
+    <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}"   style="width:40%" />
   </div>
   <div class="column">
-    <img src="{{ 'img/philipslogo.png' | relative_url }}"  style="width:100%" />
-    <img src="{{ 'img/eindhovenenginelogo.png' | relative_url }}"  style="width:100%" />
+    <img src="{{ 'img/philipslogo.png' | relative_url }}"  style="width:15%" />
+    <img src="{{ 'img/eindhovenenginelogo.png' | relative_url }}"  style="width:30%" />
   </div>
 </div>
 
-
+<br />
+<table cellspacing="0" cellpadding="0" border="0">
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{ 'img/tuelogo.png' | relative_url }}"  style="width:40%" />
+            <br />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{ 'img/tuelogo.png' | relative_url }}"  style="width:40%" />
+            <br />
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">
+            <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}"   style="width:40%" />
+            <br />
+        </td>
+        <td style="text-align: center;">
+            <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}"   style="width:40%" />
+            <br />
+        </td>
+    </tr>
+</table>

@@ -61,6 +61,9 @@ table {
 
 <body>
 
+<img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;">
+<img src="{{ 'img/avatar.png' | relative_url }}" >
+
 <div>
    <table cellspacing="0">
       <tr>

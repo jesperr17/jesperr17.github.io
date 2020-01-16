@@ -85,7 +85,7 @@ table {
 <body>
 
 
-<img src="img/hello_world.jpeg">
+<img src="img/profielfoto.png">
 
 <div>
    <table cellspacing="0">

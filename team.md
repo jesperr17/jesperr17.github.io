@@ -34,7 +34,7 @@ img {
 
 table { margin-left: 0% !important; table-layout: scroll; }
 th{font-size: 80%; padding: 10px !important}
-td{font-size: 80%; padding: 200px !important;}
+td{font-size: 80%; padding: 10px !important;}
 img {
 	border-radius: 50%;
 	padding: 0;

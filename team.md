@@ -20,8 +20,12 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 
 img {
 	width:5vw;
-   border-radius: 50%;
-   border: 5;
+  border: double 1em transparent;
+  border-radius: 50%;
+  background-image: linear-gradient(white, white), 
+                    linear-gradient(to right, green, gold);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
 }
 
 

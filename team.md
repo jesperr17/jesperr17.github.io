@@ -35,10 +35,15 @@ img {
 	width: 150px;
 }
 
-@media screen and (max-width: 1000px) {   
-   
+@media screen and (max-width: 1000px) {      
+
 #tb1 { overflow-x: scroll; }
+table { width: 100%; }
+
 }
+
+
+
 </style>
 </head>
 

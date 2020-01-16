@@ -90,7 +90,7 @@ table {
 <div>
    <table cellspacing="0">
       <tr>
-         <th></th>
+         <th> </th>
          <th>Naam</th>
          <th>Positie</th>
          <th>Instituut</th>
@@ -98,7 +98,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}"></td>
          <td>Jane Doe</td>
          <td>jane.doe@foo.com</td>
          <td>01 800 2000</td>
@@ -106,7 +106,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/avatar.jpeg' | relative_url }}"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}"></td>
          <td>John Doe</td>
          <td>john.doe@foo.com</td>
          <td>01 800 2000</td>
@@ -114,7 +114,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="img/avatar.jpeg"></td>
+         <td><img src="img/avatar.png"></td>
          <td>Jane Smith</td>
          <td>jane.smith@foo.com</td>
          <td>01 800 2000</td>
@@ -122,7 +122,7 @@ table {
       </tr>
       
       <tr>
-         <td><img src="img/avatar.jpeg"></td>
+         <td><img src="img/avatar.png"></td>
          <td>John Smith</td>
          <td>john.smith@foo.com</td>
          <td>01 800 2000</td>

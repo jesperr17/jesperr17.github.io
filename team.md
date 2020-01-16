@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research team
+title: Meet the team
 subtitle:
 ---
 

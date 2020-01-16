@@ -18,8 +18,8 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 @media screen and (min-width: 700px) {   
 
   table          {border: transparent; width:100%;}
-  table td       {border:transparent; padding: 10px; ont-family: 'Helvetica Neue'; text-transform: uppercase; font-weight: 200; text-align: center}
-  table th       {border: transparent; padding: 10px; font-family: 'Helvetica Neue'; text-transform: uppercase; font-weight: 800; text-align: center; font-size: 100%;}
+  table td       {border:transparent; padding: 10px; font-family: 'Helvetica Neue'; text-transform: uppercase; font-weight: 800; text-align: center}
+  table th       {border: transparent; padding: 10px; font-family: 'Helvetica Neue'; font-weight: 200; text-align: center; font-size: 100%;}
   table tr#r1  {background-color: #404040; color:white;}
 
 img {

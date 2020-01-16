@@ -17,9 +17,9 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 
 @media screen and (min-width: 700px) {   
 
-  table          {border:solid 5px #404040; width:100%;}
-  table td       {border:solid 10px #404040; padding: 10px}
-  table th       {padding: 10px;}
+  table          {border: transparent; width:100%;}
+  table td       {border:transparent; padding: 10px}
+  table th       {border: transparent; padding: 10px;}
   table tr#r1  {background-color: #404040; color:white;}
 
 img {
@@ -98,7 +98,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="img/avatar.png"></td>
+         <td><img src=src="{{ 'img/avatar.png' | relative_url }}"></td>
          <td>Jane Smith</td>
          <td>jane.smith@foo.com</td>
          <td>01 800 2000</td>
@@ -106,7 +106,7 @@ table {
       </tr>
       
       <tr>
-         <td><img src="img/avatar.png"></td>
+         <td><img src=src="{{ 'img/avatar.png' | relative_url }}"></td>
          <td>John Smith</td>
          <td>john.smith@foo.com</td>
          <td>01 800 2000</td>

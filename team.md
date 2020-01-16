@@ -87,9 +87,7 @@ table {
 
 
 
-<div class="table-users">
-   <div class="header">Users</div>
-   
+<div>
    <table cellspacing="0">
       <tr>
          <th></th>

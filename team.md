@@ -37,7 +37,7 @@ img {
 
 @media screen and (max-width: 1000px) {   
    
-div { overflow-x: auto; }
+body { overflow-x: auto; }
 }
 </style>
 </head>

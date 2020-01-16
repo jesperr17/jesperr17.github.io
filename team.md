@@ -55,7 +55,7 @@ table {
 
 
 <div>
-   <table cellspacing="0">
+   <table >
       <tr>
          <th>Foto</th>
          <th>Naam</th>

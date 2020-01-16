@@ -82,18 +82,18 @@ table {
 
       <tr>
          <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
-         <td>Jane Doe</td>
-         <td>jane.doe@foo.com</td>
-         <td>01 800 2000</td>
-         <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </td>
+         <td>Drs. F.R. Ramsaransing</td>
+         <td>AIOS & PhD-kandidaat </td>
+         <td>GGzE & TU/e</td>
+         <td> - </td>
       </tr>
 
       <tr>
          <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;" ></td>
-         <td>John Doe</td>
-         <td>john.doe@foo.com</td>
-         <td>01 800 2000</td>
-         <td>Blanditiis, aliquid numquam iure voluptatibus ut maiores explicabo ducimus neque, nesciunt rerum perferendis, inventore.</td>
+         <td> Drs. Ir. J. Pilmeyer </td>
+         <td>PhD-kandidaat</td>
+         <td>TU/e</td>
+         <td>j.pilmeyer@tue.nl</td>
       </tr>
 
       <tr>

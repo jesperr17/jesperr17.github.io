@@ -39,7 +39,7 @@ img {
 
 #tb1 { overflow-x: scroll; }
 table { width: 100%; }
-
+th{font-size: 80%}
 }
 
 

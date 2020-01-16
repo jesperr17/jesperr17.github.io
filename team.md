@@ -37,7 +37,7 @@ img {
 
 @media screen and (max-width: 1000px) {   
    
-body { overflow-x: scroll; }
+div { overflow-x: scroll; }
 }
 </style>
 </head>

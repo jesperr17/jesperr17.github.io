@@ -81,7 +81,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Prof. Dr. A.P. Aldenkamp</td>
          <td>Hoogleraar & Klinisch neuropsycholoog</td>
          <td>TU/e, MUMC & Kempenhaeghe</td>
@@ -89,7 +89,7 @@ table {
       </tr>
       
        <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. Ir. S. Zinger</td>
          <td>Universitair Hoofddocent</td>
          <td>TU/e</td>
@@ -97,7 +97,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. Ir. M. Matters</td>
          <td>Director New Business Development and Strategy</td>
          <td>Philips</td>
@@ -105,7 +105,7 @@ table {
       </tr>      
 
       <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. Ir. W. Huijbers</td>
          <td>Senior Neurological Scientist</td>
          <td>Philips</td>
@@ -113,7 +113,7 @@ table {
       </tr>   
 
       <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. Ir. J.F.A. Jansen </td>
          <td>Universitair Hoofddocent</td>
          <td>MUMC & TU/e</td>
@@ -121,7 +121,7 @@ table {
       </tr>   
 
       <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. Ir. R.M.J.N. Lamerichs</td>
          <td>Senior Investigator</td>
          <td>Philips</td>
@@ -129,7 +129,7 @@ table {
       </tr>   
 
       <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. M.C. Marcelis</td>
          <td>Psychiater & Universitair Hoofddocent</td>
          <td>GGzE & MUMC </td>
@@ -138,7 +138,7 @@ table {
 
 
       <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Prof. Dr. C. Baeken</td>
          <td>Psychiater & Hoofdleraar</td>
          <td>UGent & TU/e</td>

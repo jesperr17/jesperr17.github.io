@@ -34,7 +34,7 @@ img {
 
 table { margin-left: 0% !important; table-layout: scroll; }
 th{font-size: 90%; padding-top:10px !important; padding-bottom: 10px !important; padding-right: 10px !important; padding-left: 10px !important;}
-td{font-size: 70%; padding-top:10px !important; padding-bottom: 10px !important; padding-right: 10px !important; padding-left: 10px !important; }
+td{font-size: 60%; padding-top:10px !important; padding-bottom: 10px !important; padding-right: 10px !important; padding-left: 10px !important; }
 img {
 	border-radius: 50%;
 	padding: 0;

@@ -97,7 +97,7 @@ table {
       
        <tr>
          <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
-         <td>Prof. Dr. Ir. S. Zinger</td>
+         <td>Dr. Ir. S. Zinger</td>
          <td>Universitair Hoofddocent</td>
          <td>TU/e</td>
          <td> - </td>

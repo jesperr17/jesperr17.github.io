@@ -34,7 +34,6 @@ td{text-align: center;}
 }
 
 @media screen and (max-width: 700px) {   
-   table, tr, td { display: block; }
    
 div { overflow-x: auto; }
 }

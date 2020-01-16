@@ -19,7 +19,7 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 
   table          {border: 1px solid #CCC; border-collapse: collapse; width:100%; table-layout: fixed;}
   td       {border:transparent; padding: 10px; font-family: 'Helvetica Neue'; font-weight: 200; border: none !important; text-align: center !important; }
-  th       {border: transparent; padding: 10px; font-family: 'Helvetica Neue'; text-transform: uppercase; font-weight: 800; text-align: center; font-size: 100%;}
+  th       {border: none !important; padding: 10px; font-family: 'Helvetica Neue'; text-transform: uppercase; font-weight: 800; text-align: center !important; font-size: 100%;}
   tr#r1  {background-color: #404040; color:white;}
 
 img {
@@ -76,7 +76,7 @@ table {
          <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;" ></td>
          <td> Drs. Ir. J. Pilmeyer </td>
          <td>PhD-kandidaat</td>
-         <td style="text-align: center;">TU/e </td>
+         <td>TU/e </td>
          <td>j.pilmeyer@tue.nl</td>
       </tr>
 

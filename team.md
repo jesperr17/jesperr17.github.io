@@ -33,7 +33,11 @@ img {
 td{text-align: center;}
 }
 
-
+@media screen and (max-width: 700px) {   
+   table, tr, td { display: block; }
+   
+div { overflow-x: auto; }
+}
 </style>
 </head>
 
@@ -41,7 +45,7 @@ td{text-align: center;}
 <body>
 
 
-<div style="overflow-x:auto;">
+<div>
    <table >
       <tr>
          <th></th>

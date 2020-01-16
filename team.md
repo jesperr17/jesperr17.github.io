@@ -25,7 +25,6 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 img {
   width:5vw;
   border-radius: 50%;
-  border: 3px solid #000000;
   padding: 0;
 }
 
@@ -82,7 +81,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Jane Doe</td>
          <td>jane.doe@foo.com</td>
          <td>01 800 2000</td>
@@ -90,7 +89,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;" ></td>
          <td>John Doe</td>
          <td>john.doe@foo.com</td>
          <td>01 800 2000</td>
@@ -98,7 +97,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Jane Smith</td>
          <td>jane.smith@foo.com</td>
          <td>01 800 2000</td>
@@ -106,7 +105,7 @@ table {
       </tr>
       
       <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>John Smith</td>
          <td>john.smith@foo.com</td>
          <td>01 800 2000</td>

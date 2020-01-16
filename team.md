@@ -166,7 +166,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src=img/avatar.jpeg></td>
+         <td><img src=img/hello_world.jpeg></td>
          <td>Jane Doe</td>
          <td>jane.doe@foo.com</td>
          <td>01 800 2000</td>

@@ -174,7 +174,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="http://lorempixel.com/100/100/sports/2" alt="" /></td>
+         <td><img src=img/avatar.jpeg></td>
          <td>John Doe</td>
          <td>john.doe@foo.com</td>
          <td>01 800 2000</td>
@@ -182,7 +182,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="http://lorempixel.com/100/100/people/9" alt="" /></td>
+         <td><img src=img/avatar.jpeg></td>
          <td>Jane Smith</td>
          <td>jane.smith@foo.com</td>
          <td>01 800 2000</td>
@@ -190,7 +190,7 @@ table {
       </tr>
       
       <tr>
-         <td><img src="http://lorempixel.com/100/100/people/3" alt="" /></td>
+         <td><img src=img/avatar.jpeg></td>
          <td>John Smith</td>
          <td>john.smith@foo.com</td>
          <td>01 800 2000</td>

@@ -1,14 +1,8 @@
 ---
 layout: page
-title: Het onderzoeksteam
+title: Het NEUROTREND team
 subtitle:
 ---
-
-<div> 
-<p style="text-align: center;">
-De volgende onderzoekers maken deel uit van het NEUROTREND team:
-</p>
-</div>
 
 
 <html>
@@ -47,7 +41,7 @@ img {
 	width: 150px !important;
 }
 #tb1 { overflow-x: auto; }
-h1 {width: 80vw; text-align: center;}
+title {width: 80vw; text-align: center;}
 }
 
 

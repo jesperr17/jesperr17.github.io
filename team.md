@@ -14,25 +14,9 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 <html>
 <head>
 <style>
-$baseColor: #398B93;
-$borderRadius: 10px;
-$imageBig: 100px;
-$imageSmall: 60px;
-$padding: 10px;
 
-body {
-   background-color: lighten($baseColor, 30%);
-   * { box-sizing: border-box; }
-}
-
-.header {
-   background-color: darken($baseColor, 5%);
-   color: white;
-   font-size: 10em;
-   padding: 1rem;
-   text-align: center;
-   text-transform: uppercase;
-}
+@media screen and (min-width: 700px) {   
+   table, tr, td { display: block; }
 
 img {
    border-radius: 50%;
@@ -40,15 +24,7 @@ img {
    width: $imageSmall;
 }
 
-.table-users {
-   border: 1px solid darken($baseColor, 5%);
-   border-radius: $borderRadius;
-   box-shadow: 3px 3px 0 rgba(0,0,0,0.1);
-   max-width: calc(100% - 2em);
-   margin: 1em auto;
-   overflow: hidden;
-   width: 800px;
-}
+
 
 table {
    width: 100%;
@@ -61,22 +37,13 @@ table {
    td {
       text-align: center;
       vertical-align: middle;
-      
-      &:last-child {
-         font-size: 0.95em;
-         line-height: 1.4;
-         text-align: left;
-      }
    }
    
    th { 
       background-color: lighten($baseColor, 50%);
       font-weight: 300;
    }
-   
-   tr {     
-      &:nth-child(2n) { background-color: white; }
-      &:nth-child(2n+1) { background-color: lighten($baseColor, 55%) }
+
    }
 }
 
@@ -199,7 +166,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src=img/avatar.jpeg alt="" /></td>
+         <td><img src=img/avatar.jpeg></td>
          <td>Jane Doe</td>
          <td>jane.doe@foo.com</td>
          <td>01 800 2000</td>

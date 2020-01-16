@@ -32,9 +32,9 @@ img {
 @media screen and (max-width: 1000px) {      
 
 
-table { margin-left: 0% !important; table-layout: scroll; }
+table { margin-left: 0% !important; table-layout: scroll; padding:10px;}
 th{font-size: 80%}
-td{font-size: 80%}
+td{font-size: 80%; }
 img {
 	border-radius: 50%;
 	padding: 0;

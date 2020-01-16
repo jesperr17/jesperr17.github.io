@@ -38,7 +38,7 @@ img {
 @media screen and (max-width: 1000px) {      
 
 
-table { width: 50%; margin: auto; table-layout: auto;}
+table { width: 50%; margin: auto; table-layout: fixed;}
 th{font-size: 80%}
 #tb1 { overflow-x: scroll; }
 }

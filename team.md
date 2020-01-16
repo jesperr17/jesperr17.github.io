@@ -37,7 +37,7 @@ img {
 
 @media screen and (max-width: 1000px) {   
    
-div { overflow-x: scroll; }
+#tb1 { overflow-x: scroll; }
 }
 </style>
 </head>
@@ -46,7 +46,7 @@ div { overflow-x: scroll; }
 <body>
 
 
-<div>
+<div id="tb1">
    <table >
       <tr>
          <th></th>

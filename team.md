@@ -36,19 +36,12 @@ img {
 table {
    width: 100%;
    
-   td, th { 
-      color: darken($baseColor, 10%);
-      padding: $padding; 
-   }
-   
    td {
       text-align: center;
-      vertical-align: middle;
    }
    
    th { 
-      background-color: lighten($baseColor, 50%);
-      font-weight: 300;
+
    }
 
    }
@@ -125,7 +118,7 @@ table {
          <td>Senior Investigator</td>
          <td>Philips</td>
          <td> - </td>
-
+      </tr>   
       <tr>
          <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. Ir. R.M.J.N. Lamerichs</td>
@@ -133,8 +126,7 @@ table {
          <td>Philips</td>
          <td> - </td>
       </tr>   
-
-      </tr>   
+        
    </table>
 </div>
 </body>

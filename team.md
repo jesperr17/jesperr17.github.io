@@ -47,7 +47,7 @@ div { overflow-x: auto; }
 <div>
    <table >
       <tr>
-         <th></th>
+         <th style="border: none;"></th>
          <th>Naam</th>
          <th>Positie</th>
          <th>Instituut</th>
@@ -64,7 +64,7 @@ div { overflow-x: auto; }
 
       <tr>
          <td><img src="{{ 'img/teamfotos/jesper.jpeg' | relative_url }}" style="border: 3px solid #000000;" ></td>
-         <td> Drs. Ir. J. Pilmeyer </td>
+         <td > Drs. Ir. J. Pilmeyer </td>
          <td>PhD-kandidaat</td>
          <td>TU/e </td>
          <td>j.pilmeyer@tue.nl</td>

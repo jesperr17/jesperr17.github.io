@@ -4,8 +4,8 @@ title: Het onderzoeksteam
 subtitle:
 ---
 
-<div align="justify"> 
-<p>
+<div> 
+<p style="text-align: center;">
 De volgende onderzoekers maken deel uit van het NEUROTREND team:
 </p>
 </div>
@@ -18,14 +18,14 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 @media screen and (min-width: 700px) {   
 
   table          {border: 1px solid #CCC; border-collapse: collapse; width:100%; table-layout: fixed;}
-  td       {border:transparent; padding: 10px; font-family: 'Helvetica Neue'; font-weight: 200; text-align: center; border; none}
+  td       {border:transparent; padding: 10px; font-family: 'Helvetica Neue'; font-weight: 200; text-align: center; border: none;}
   th       {border: transparent; padding: 10px; font-family: 'Helvetica Neue'; text-transform: uppercase; font-weight: 800; text-align: center; font-size: 100%;}
   tr#r1  {background-color: #404040; color:white;}
 
 img {
 	border-radius: 50%;
 	padding: 0;
-	width: 450px;
+	width: 150px;
 }
 
 }
@@ -34,7 +34,7 @@ img {
    table, tr, td { display: block; }
    
 table {
-   width: 100%;
+   width: 100%;}
    
    td {
       text-align: center;
@@ -44,7 +44,7 @@ table {
    	text-align: center;
    }
 
-   }
+   
 }   
 
 </style>

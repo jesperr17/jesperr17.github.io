@@ -127,21 +127,15 @@ table {
          <td>Philips</td>
          <td> - </td>
       </tr>   
+
       <tr>
          <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. M.C. Marcelis</td>
          <td>Psychiater & Universitair Hoofddocent</td>
-         <td>Philips</td>
+         <td>GGzE</td>
          <td> - </td>
       </tr>   
 
-      <tr>
-         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
-         <td>Dr. Ir. R.M.J.N. Lamerichs</td>
-         <td>Senior Investigator</td>
-         <td>Philips</td>
-         <td> - </td>
-      </tr>  
 
       <tr>
          <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>

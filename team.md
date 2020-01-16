@@ -15,7 +15,7 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 <head>
 <style>
 
-@media screen and (min-width: 700px) {   
+@media screen and (min-width: 0px) {   
 
   table          { width:130%; table-layout: fixed; margin-left: -15% !important; }
   

@@ -47,7 +47,7 @@ img {
 	width: 150px !important;
 }
 #tb1 { overflow-x: auto; }
-
+h1 {width: 60%;}
 }
 
 

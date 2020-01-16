@@ -28,14 +28,14 @@ body {
 .header {
    background-color: darken($baseColor, 5%);
    color: white;
-   font-size: 1.5em;
+   font-size: 10em;
    padding: 1rem;
    text-align: center;
    text-transform: uppercase;
 }
 
 img {
-   border-radius: 0%;
+   border-radius: 50%;
    height: $imageSmall;
    width: $imageSmall;
 }
@@ -191,15 +191,15 @@ table {
    
    <table cellspacing="0">
       <tr>
-         <th>Picture</th>
-         <th>Name</th>
+         <th></th>
+         <th>Naam</th>
+         <th>Positie</th>
+         <th>Instituut</th>
          <th>Email</th>
-         <th>Phone</th>
-         <th width="230">Comments</th>
       </tr>
 
       <tr>
-         <td><img src="http://lorempixel.com/100/100/people/1" alt="" /></td>
+         <td><img src=img/avatar.jpeg alt="" /></td>
          <td>Jane Doe</td>
          <td>jane.doe@foo.com</td>
          <td>01 800 2000</td>

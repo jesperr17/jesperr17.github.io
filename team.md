@@ -16,7 +16,11 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 <style>
 
 @media screen and (min-width: 700px) {   
-   table, tr, td { display: table; }
+
+  table          {border:solid 5px #404040; width:100%;}
+  table td       {border:solid 10px #404040; padding: 10px}
+  table th       {padding: 10px;}
+  table tr#r1  {background-color: #404040; color:white;}
 
 img {
   width:5vw;
@@ -25,26 +29,6 @@ img {
   padding: 0;
 }
 
-
-table {
-   width: 100%;
-   
-   td, th { 
-      color: darken($baseColor, 10%);
-      padding: $padding; 
-   }
-   
-   td {
-      text-align: center;
-      vertical-align: middle;
-   }
-   
-   th { 
-      background-color: lighten($baseColor, 50%);
-      font-weight: 300;
-   }
-
-   }
 }
 
 @media screen and (max-width: 700px) {   

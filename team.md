@@ -26,7 +26,7 @@ img {
 	border-radius: 50%;
 	padding: 0;
 	.size {
-		width:50vw;}
+		width:20vw;}
 }
 
 }

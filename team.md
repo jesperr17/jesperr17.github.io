@@ -41,11 +41,7 @@ img {
 table { margin-left: 0% !important; table-layout: auto; }
 th{font-size: 80%}
 td{font-size: 80%}
-img {
-	border-radius: 50%;
-	padding: 0;
-	width: 150px;
-}
+
 #tb1 { overflow-x: auto; }
 
 }

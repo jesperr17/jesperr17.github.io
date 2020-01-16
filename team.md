@@ -35,7 +35,7 @@ img {
 
 img {
 	.size {
-		width:15vw;
+		width:50vw;
 	}
    border-radius: 50%;
 }
@@ -103,13 +103,23 @@ table {
          <td> - </td>
       </tr>
       
-      <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
-         <td>John Smith</td>
-         <td>john.smith@foo.com</td>
-         <td>01 800 2000</td>
-         <td>Aut voluptatum accusantium, eveniet, sapiente quaerat adipisci consequatur maxime temporibus quas, dolorem impedit.</td>
+       <tr>
+         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td>Prof. Dr. Ir. S. Zinger</td>
+         <td>Universitair Hoofddocent</td>
+         <td>TU/e</td>
+         <td> - </td>
       </tr>
+
+      <tr>
+         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td>Prof. Dr. A.P. Aldenkamp</td>
+         <td>Hoogleraar & Klinisch neuropsycholoog</td>
+         <td>TU/e, MUMC & Kempenhaeghe</td>
+         <td> - </td>
+      </tr>      
+
+
    </table>
 </div>
 </body>

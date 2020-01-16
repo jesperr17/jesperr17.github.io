@@ -16,7 +16,7 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 <style>
 
 @media screen and (min-width: 700px) {   
-   table, tr, td { display: block; }
+   table, tr, td { display: table; box-sizing: content-box; }
 
 img {
   width:5vw;

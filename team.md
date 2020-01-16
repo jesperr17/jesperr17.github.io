@@ -90,7 +90,7 @@ table {
 <div>
    <table cellspacing="0">
       <tr>
-         <th> </th>
+         <th>Foto</th>
          <th>Naam</th>
          <th>Positie</th>
          <th>Instituut</th>

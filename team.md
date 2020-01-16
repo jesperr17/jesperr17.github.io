@@ -30,7 +30,7 @@ img {
 	padding: 0;
 	width: 150px;
 }
-td{text-align: center;}
+table, th, td {border: none !important;}
 }
 
 @media screen and (max-width: 700px) {   

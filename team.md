@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Het NEUROTREND team
+title: Research team
 subtitle:
 ---
 

@@ -107,13 +107,36 @@ table {
 
       <tr>
          <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
-         <td>Prof. Dr. A.P. Aldenkamp</td>
-         <td>Hoogleraar & Klinisch neuropsycholoog</td>
-         <td>TU/e, MUMC & Kempenhaeghe</td>
+         <td>Dr. Ir. M. Matters</td>
+         <td>Director New Business Development and Strategy</td>
+         <td>Philips</td>
          <td> - </td>
       </tr>      
 
+      <tr>
+         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td>Dr. Ir. W. Huijbers</td>
+         <td>Senior Neurological Scientist</td>
+         <td>Philips</td>
+         <td> - </td>
+      </tr>   
 
+      <tr>
+         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td>Dr. Ir. R.M.J.N. Lamerichs</td>
+         <td>Senior Investigator</td>
+         <td>Philips</td>
+         <td> - </td>
+
+      <tr>
+         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td>Dr. Ir. R.M.J.N. Lamerichs</td>
+         <td>Senior Investigator</td>
+         <td>Philips</td>
+         <td> - </td>
+      </tr>   
+               
+      </tr>   
    </table>
 </div>
 </body>

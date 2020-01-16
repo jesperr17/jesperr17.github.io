@@ -132,7 +132,7 @@ table {
          <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. M.C. Marcelis</td>
          <td>Psychiater & Universitair Hoofddocent</td>
-         <td>GGzE</td>
+         <td>GGzE & MUMC </td>
          <td> - </td>
       </tr>   
 

@@ -76,7 +76,7 @@ table {
          <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;" ></td>
          <td> Drs. Ir. J. Pilmeyer </td>
          <td>PhD-kandidaat</td>
-         <td>TU/e style="text-align: center;</td>
+         <td>TU/e style="text-align: center;"</td>
          <td>j.pilmeyer@tue.nl</td>
       </tr>
 

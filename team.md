@@ -25,8 +25,7 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 img {
 	border-radius: 50%;
 	padding: 0;
-	.size {
-		width:20vw;}
+	width: 20vw;
 }
 
 }

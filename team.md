@@ -25,7 +25,7 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 img {
 	border-radius: 50%;
 	padding: 0;
-	width: 20vw;
+	width: 100px;
 }
 
 }
@@ -60,8 +60,6 @@ table {
 
 <body>
 
-<img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;">
-<img src="{{ 'img/avatar.png' | relative_url }}" >
 
 <div>
    <table cellspacing="0">
@@ -135,7 +133,7 @@ table {
          <td>Philips</td>
          <td> - </td>
       </tr>   
-               
+
       </tr>   
    </table>
 </div>

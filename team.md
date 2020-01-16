@@ -82,10 +82,10 @@ table {
 
 </style>
 </head>
+
+
 <body>
-
-
-<img src="img/profielfoto.png">
+<img src="{{ 'img/studydesign.png' | relative_url }}">
 
 <div>
    <table cellspacing="0">
@@ -98,7 +98,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="img/hello_world.jpeg"></td>
+         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}"></td>
          <td>Jane Doe</td>
          <td>jane.doe@foo.com</td>
          <td>01 800 2000</td>
@@ -106,7 +106,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src="img/avatar.jpeg"></td>
+         <td><img src="{{ 'img/avatar.jpeg' | relative_url }}"></td>
          <td>John Doe</td>
          <td>john.doe@foo.com</td>
          <td>01 800 2000</td>

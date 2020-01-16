@@ -99,7 +99,7 @@ table {
       <tr>
          <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Prof. Dr. A.P. Aldenkamp</td>
-         <td>Full professor & Klinisch neuropsycholoog</td>
+         <td>Hoogleraar & Klinisch neuropsycholoog</td>
          <td>TU/e, MUMC & Kempenhaeghe</td>
          <td> - </td>
       </tr>

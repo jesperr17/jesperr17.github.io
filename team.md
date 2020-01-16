@@ -97,11 +97,11 @@ table {
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
-         <td>Jane Smith</td>
-         <td>jane.smith@foo.com</td>
-         <td>01 800 2000</td>
-         <td> Culpa praesentium unde pariatur fugit eos recusandae voluptas.</td>
+         <td><img src="{{ 'img/hello_world.jpeg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td>Prof. Dr. A.P. Aldenkamp</td>
+         <td>Full professor & Klinisch neuropsycholoog</td>
+         <td>TU/e, MUMC & Kempenhaeghe</td>
+         <td> - </td>
       </tr>
       
       <tr>

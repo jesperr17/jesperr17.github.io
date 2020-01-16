@@ -32,6 +32,7 @@ navbar-links:
     - Neem deel!: "neemdeel"
   Onderzoek:
     - Milestones: "milestones"
+    - Onderzoeksteam: "team"
     - Publicaties en andere onderzoeksoutput: "publicaties"
     - Partners: 'partners'
   Contact: 'contact'

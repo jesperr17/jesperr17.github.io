@@ -85,7 +85,6 @@ table {
 
 
 <body>
-<img src="{{ 'img/studydesign.png' | relative_url }}">
 
 <div>
    <table cellspacing="0">

@@ -17,9 +17,12 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
 
 @media screen and (min-width: 700px) {   
 
-  table          {border: 0px solid #000000 !important; border-collapse: collapse !important; width:130%; table-layout: fixed; margin-left: -15% !important; -webkit-backface-visibility: hidden;}
-  td       {padding: 10px; font-family: 'Helvetica Neue'; font-weight: 200; border: 0px solid #000000 !important; text-align: center !important; -webkit-backface-visibility: hidden;}
-  th       {border: 0px solid #000000 !important; padding: 10px; font-family: 'Helvetica Neue'; text-transform: uppercase; font-weight: 800; text-align: center !important; font-size: 120%; -webkit-backface-visibility: hidden;}
+  table          {border: 0px solid #000000 !important; border-collapse: collapse !important; width:130%; table-layout: fixed; margin-left: -15% !important; }
+  td       {padding: 10px; font-family: 'Helvetica Neue'; font-weight: 200; border: 0px solid #000000 !important; text-align: center !important;
+
+.border {display: none	}
+}
+  th       {border: 0px solid #000000 !important; padding: 10px; font-family: 'Helvetica Neue'; text-transform: uppercase; font-weight: 800; text-align: center !important; font-size: 120%; }
   tr#r1  {background-color: #404040; color:white;}
 
 img {
@@ -30,22 +33,6 @@ img {
 td{text-align: center;}
 }
 
-@media screen and (max-width: 700px) {   
-   table, tr, td { display: block; }
-   
-table {
-   width: 100%;}
-   
-   td {
-      text-align: center;
-   }
-   
-   th { 
-   	text-align: center;
-   }
-
-   
-}   
 
 </style>
 </head>
@@ -54,7 +41,7 @@ table {
 <body>
 
 
-<div>
+<div style="overflow-x:auto;">
    <table >
       <tr>
          <th></th>

@@ -19,7 +19,7 @@ De volgende onderzoekers maken deel uit van het NEUROTREND team:
    table, tr, td { display: block; }
 
 img {
-	width:5%;
+	width:5vw;
    border-radius: 50%;
 }
 

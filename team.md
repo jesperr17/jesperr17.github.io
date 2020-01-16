@@ -98,7 +98,7 @@ table {
       </tr>
 
       <tr>
-         <td><img src=src="{{ 'img/avatar.png' | relative_url }}"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}"></td>
          <td>Jane Smith</td>
          <td>jane.smith@foo.com</td>
          <td>01 800 2000</td>
@@ -106,7 +106,7 @@ table {
       </tr>
       
       <tr>
-         <td><img src=src="{{ 'img/avatar.png' | relative_url }}"></td>
+         <td><img src="{{ 'img/avatar.png' | relative_url }}"></td>
          <td>John Smith</td>
          <td>john.smith@foo.com</td>
          <td>01 800 2000</td>

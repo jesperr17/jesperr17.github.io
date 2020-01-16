@@ -36,7 +36,7 @@ img {
 
 img {
 	.size {
-		width:5vw;
+		width:10vw;
 	}
    border-radius: 50%;
 }

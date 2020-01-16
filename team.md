@@ -27,7 +27,7 @@ img {
 	padding: 0;
 	width: 150px;
 }
-
+td{text-align: center;}
 }
 
 @media screen and (max-width: 700px) {   

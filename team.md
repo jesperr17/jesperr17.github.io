@@ -44,7 +44,7 @@ td{font-size: 80%}
 img {
 	border-radius: 50%;
 	padding: 0;
-	width: 500px;
+	width: 150px !important;
 }
 #tb1 { overflow-x: auto; }
 

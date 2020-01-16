@@ -33,8 +33,8 @@ img {
 
 
 table { margin-left: 0% !important; table-layout: scroll; }
-th{font-size: 80%; padding: 10px !important}
-td{font-size: 80%; padding: 10px !important;}
+th{font-size: 80%; padding: 15px !important}
+td{font-size: 80%; padding: 15px !important;}
 img {
 	border-radius: 50%;
 	padding: 0;

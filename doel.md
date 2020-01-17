@@ -19,7 +19,7 @@ De volgende secundaire doelen zijn opgesteld voor het NEUROTREND onderzoek. Deze
 
 
 <ul><div align="justify">
-<br><li><i>Psychiatrische evaluatie van depressie en gerelateerd comorbiditeiten door middel van vragenlijsten en de (medische) voorgeschiedenis:</i> 
+<br><li><i>Psychiatrische evaluatie van depressie en gerelateerde comorbiditeiten door middel van vragenlijsten en de (medische) voorgeschiedenis:</i> 
 <br>Voor deze doelstelling zullen we de op MRI-gebaseerde determinanten van comorbiditeiten en psychiatrische symptomen van depressie identificeren en evalueren. Dit willen we bereiken door bevindingen of veranderingen op de MRI-scans te onderzoeken en te correleren met uitkomstmaten van vragenlijsten en de (medische) voorgeschiedenis. De vragenlijsten en (medische) voorgeschiedenis kunnen comorbiditeiten of specifieke symptomen van de depressie aan het licht brengen, die mogelijk gecorreleerd zijn met hersenveranderingen of -bevindingen zoals te zien in MRI-scans. Een voorbeeld van een bevinding zou kunnen zijn dat activatie in de amgygdala meer geassocieerd is met depressie in combinatie met ernstige angstsymptomen. </li>
 
 

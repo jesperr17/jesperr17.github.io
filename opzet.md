@@ -8,7 +8,7 @@ subtitle:
 	<p>
 		<h2> Beschrijving van het onderzoek </h2>
 
-Wanneer uit de screening en het intakegesprek blijkt dat de participant deel kan nemen aan het onderzoek en hij/zij het toestemmingsformulier heeft getekend (zie sectie 'participatie' voor meer informatie), zal een week na het intakegesprek het onderzoek starten. Bij de start van het onderzoek (dit wordt gezien als dag 1) zal de participant worden gevraagd om vragenlijsten in te vullen en een aantal cognitieve taken te voltooien op de computer. Dit zal ongeveer een uur duren. Vervolgens zal de patiënt gescand worden in de MRI scanner; ook dit zal een uur duren. Na dag 1 zal om de 3 maanden telefonisch contact plaatsvinden om het medicatiegebruik van die voorgaande 3 maanden op te vragen en de huidige ernst van de depressie vast te stellen. Één jaar na dag 1 wordt u opgeroepen om opnieuw aan een identieke examinatie- en scansessie, d.w.z. met vragenlijsten, cognitieve taken en een MRI scan, deel te nemen. Hierna is het onderzoek voor deze participant afgerond.
+Wanneer uit de screening en het intakegesprek blijkt dat de participant deel kan nemen aan het onderzoek en hij/zij het toestemmingsformulier heeft getekend (zie sectie 'participatie' voor meer informatie), zal een week na het intakegesprek het onderzoek starten. Bij de start van het onderzoek (dit wordt gezien als dag 1) zal de participant worden gevraagd om vragenlijsten in te vullen en een aantal cognitieve taken te voltooien op de computer. Dit zal ongeveer een uur duren. Vervolgens zal de patiënt gescand worden in de MRI-scanner; ook dit zal een uur duren. Na dag 1 zal om de 3 maanden telefonisch contact plaatsvinden om het medicatiegebruik van die voorgaande 3 maanden op te vragen en de huidige ernst van de depressie vast te stellen. Één jaar na dag 1 wordt de patiënt opgeroepen om opnieuw aan een identieke examinatie- en scansessie, d.w.z. met vragenlijsten, cognitieve taken en een MRI-scan, deel te nemen. Hierna is het onderzoek voor deze participant afgerond.
 	</p>
 </div>
 
@@ -30,7 +30,7 @@ Wanneer uit de screening en het intakegesprek blijkt dat de participant deel kan
 
 		<h3> Depressief versus gezonde controles </h3>
 		
-		Doordat we depressieve patiënten met elkaar gaan vergelijken op het effect van medicatie hebben we ook een referentie nodig; dit zijn in ons geval de gezonde controleproefpersonen. Wanneer een behandeling aanslaat is het van belang om te bepalen of bepaalde fysiologische herseneigenschappen weer in de 'gezonde' schaal vallen en/of dat er toch nog blijvende verandering zichtbaar is die op een eventuele terugkeer van de depressie kan duiden. De controles dragen dus bij aan het begrijpen van zowel de hersenen tijdens een depressie als het medicatie-effect.
+		Doordat we depressieve patiënten met elkaar gaan vergelijken op het effect van medicatie hebben we ook een referentie nodig; dit zijn in ons geval de gezonde controleproefpersonen. Wanneer een behandeling aanslaat is het van belang om te bepalen of bepaalde fysiologische hersenbevindingen weer binnen de 'gezonde' schaal vallen en/of dat er toch nog blijvende verandering zichtbaar is die op een eventuele terugkeer van de depressie zou kunnen duiden. De controles dragen dus bij aan het begrijpen van zowel de hersenen tijdens een depressie als het medicatie-effect.
 
 		<h3> Longitudinaal </h3>
 

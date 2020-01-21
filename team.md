@@ -80,7 +80,7 @@ title {width: 80vw; text-align: center;}
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/teamfotos/bert.jpg' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Prof. Dr. A.P. Aldenkamp</td>
          <td>Hoogleraar & Klinisch neuropsycholoog</td>
          <td>TU/e, MUMC & Kempenhaeghe</td>

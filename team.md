@@ -88,7 +88,7 @@ title {width: 80vw; text-align: center;}
       </tr>
       
        <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/teamfotos/sveta.jpg' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. Ir. S. Zinger</td>
          <td>Universitair Hoofddocent</td>
          <td>TU/e</td>
@@ -112,8 +112,8 @@ title {width: 80vw; text-align: center;}
       </tr>   
 
       <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
-         <td>Dr. Ir. J.F.A. Jansen </td>
+         <td><img src="{{ 'img/teamfotos/jaap.jpg' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td>Dr. J.F.A. Jansen </td>
          <td>Universitair Hoofddocent</td>
          <td>MUMC & TU/e</td>
          <td> - </td>

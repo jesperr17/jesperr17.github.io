@@ -104,7 +104,7 @@ title {width: 80vw; text-align: center;}
       </tr>      
 
       <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/teamfotos/willem.png' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. Ir. W. Huijbers</td>
          <td>Senior Neurological Scientist</td>
          <td>Philips</td>

@@ -17,7 +17,7 @@ Wanneer uit de screening en het intakegesprek blijkt dat de participant deel kan
 </p>
 
 <p style = "text-align: center" >
-<font size="3"><i>Een overzicht van de studie opzet. </i></font>
+<font size="3"><i>Een overzicht van de onderzoeksopzet. </i></font>
 </p>
 
 <div align = "justify">

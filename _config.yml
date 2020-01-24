@@ -23,7 +23,7 @@ navbar-links:
   About NEUROTREND: "about"
   Study design:
     - Ons doel: "doel" #Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Opzet van de studie: "opzet"  #Learn markdown: "http://www.markdowntutorial.com/"
+    - Onderzoeksopzet: "opzet"  #Learn markdown: "http://www.markdowntutorial.com/"
   Deelname:
     - Wie zoeken wij?: "wie"
     - Wat houdt deelname in?: "wat"

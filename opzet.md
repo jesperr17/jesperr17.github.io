@@ -1,6 +1,6 @@
 ---
 layout: page
-title: De opzet van de studie
+title: De onderzoeksopzet
 subtitle:
 ---
 
@@ -13,11 +13,11 @@ Wanneer uit de screening en het intakegesprek blijkt dat de participant deel kan
 </div>
 
 <p style="text-align:center">
-<img src="{{ 'img/studydesign.png' | relative_url }}" style= "width:75%" />
+<img src="{{ 'img/studydesign_nl.png' | relative_url }}" style= "width:75%" />
 </p>
 
 <p style = "text-align: center" >
-<font size="3"><i>Een overzicht van de studie opzet. Baseline staat voor dag 1 van het onderzoek. </i></font>
+<font size="3"><i>Een overzicht van de studie opzet. </i></font>
 </p>
 
 <div align = "justify">

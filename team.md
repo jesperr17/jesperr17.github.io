@@ -96,7 +96,7 @@ title {width: 80vw; text-align: center;}
       </tr>
 
       <tr>
-         <td><img src="{{ 'img/avatar.png' | relative_url }}" style="border: 3px solid #000000;"></td>
+         <td><img src="{{ 'img/teamfotos/marco.jpg' | relative_url }}" style="border: 3px solid #000000;"></td>
          <td>Dr. Ir. M. Matters</td>
          <td>Director New Business Development and Strategy</td>
          <td>Philips</td>

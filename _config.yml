@@ -34,7 +34,7 @@ navbar-links:
     - Milestones: "milestones"
     - Onderzoeksteam: "team"
     - Publicaties en andere onderzoeksoutput: "publicaties"
-    - Partners: 'partners'
+    - Partners: 'partners2'
   Contact: 'contact'
 
 # Image to show in the navigation bar - image must be a square (width = height)

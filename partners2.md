@@ -43,8 +43,8 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
   <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}" />
 </div>
 <div class="container">
-  <img src="{{ 'img/hoboheeze_logo.png' | relative_url }}" />
-  <img src="{{ 'img/eindhovenenginelogo.png' | relative_url }}" />
+  <img src="{{ 'img/hoboheeze_logo.png' | relative_url }}" style= "width:35%;"/>
+  <img src="{{ 'img/eindhovenenginelogo.png' | relative_url }}" style= "width:35%;" />
 </div>
 
 

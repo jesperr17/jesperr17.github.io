@@ -6,6 +6,9 @@ subtitle:
 
 <html>
 <head>
+<style type="text/css">
+
+
 div.container {
   width: 96%;
   margin: 0 auto;
@@ -14,7 +17,7 @@ img {
   width: 48%;
   display: inline-block;
 }
-
+</style>
 </head>
 <body>
 

@@ -8,7 +8,7 @@ subtitle:
 <head>
 div.container {
   width: 96%;
-  margin: 0 auto; /* to center the container */
+  margin: 0 auto;
 }
 img {
   width: 48%;

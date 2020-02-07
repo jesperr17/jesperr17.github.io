@@ -105,7 +105,7 @@ title {width: 80vw; text-align: center;}
 
       <tr>
          <td><img src="{{ 'img/teamfotos/willem.png' | relative_url }}" style="border: 3px solid #000000;"></td>
-         <td>Dr. Ir. W. Huijbers</td>
+         <td>Dr. W. Huijbers</td>
          <td>Senior Neurological Scientist</td>
          <td>Philips</td>
          <td> - </td>

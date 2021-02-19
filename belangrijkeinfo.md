@@ -45,5 +45,5 @@ Van een MRI onderzoek worden geen nadelige gevolgen verwacht omdat deze manier v
 
 			<br><br><h3> Is er een vergoeding voor deelname aan dit onderzoek? </h3>
 
-Ja, reiskosten zullen vergoed worden met €0,19/km. Verder zult u een bijdrage ontvangen voor deelname aan het onderzoek ter waarde van € ... .
+Ja, reiskosten zullen vergoed worden met €0,19/km. Verder zult u een bijdrage ontvangen voor deelname aan het onderzoek ter waarde van €20 per bezoek (dus uiteindelijk 2 x €20).
 

@@ -10,7 +10,7 @@ subtitle:
 
 Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een formulier moeten invullen met vragen over uw huidige gezondheidstoestand. Op grond van deze antwoorden kunt u alsnog worden uitgesloten van deelname. Wanneer dit laatste niet het geval is, zal er een afspraak voor een intakegesprek worden ingepland waarin we naar uw medische geschiedenis vragen en toetsen of u deel kunt nemen. Als dit mogelijk en u besluit vrijwillig deel te nemen, zult u worden gevraagd het toestemmingsformulier te ondertekenen. Het intakegesprek zal ongeveer een half uur duren.
 
-<br><br>Ongeveer een week na het intakegesprek komt u naar Kempenhaeghe (in Heeze) voor de eerste scan- en examinatiesessie. We starten met een aantal vragenlijsten en cognitieve taken op de computer. Daarna maken we hersenbeelden met behulp van de MRI scanner. Beide procedures vinden op dezelfde dag plaats en duren ieder een uur. Na één jaar volgt een tweede bezoek aan Kempenhaeghe waarbij we de onderzoeken en MRI scan herhalen. Dit tweede bezoek is zeer belangrijk omdat we naar veranderingen willen kijken. Als u besluit deel te nemen aan dit onderzoek is het erg belangrijk dat u ook mee doet aan dit tweede bezoek. 
+<br><br>Ongeveer een week na het intakegesprek komt u naar Kempenhaeghe (in Heeze) voor de eerste scan- en examinatiesessie. We starten met een aantal vragenlijsten en cognitieve taken op de computer. Daarna maken we hersenbeelden met behulp van de MRI scanner. Beide procedures vinden op dezelfde dag plaats en duren ieder ongeveer 3 uur. Na één jaar volgt een tweede bezoek aan Kempenhaeghe waarbij we de onderzoeken en MRI scan herhalen. Dit tweede bezoek is zeer belangrijk omdat we naar veranderingen willen kijken. Als u besluit deel te nemen aan dit onderzoek is het erg belangrijk dat u ook mee doet aan dit tweede bezoek. 
 
 <br><br> Tussen het eerste en het tweede bezoek nemen wij om de 3 maanden telefonisch contact met u op om een korte vragenlijst over uw behandeling/medicatiegebruik en (wanneer toepasbaar) depressiesymptomen te beantwoorden.
 
@@ -42,7 +42,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 	<tr id="r4">
 		<td> Bezoek 1: vragenlijsten + computertaken</td>
 		<td> Na 1 week </td>
-		<td> 1 uur</td>
+		<td> 2 uur</td>
 	</tr>
 	<tr id="r5">
 		<td> Bezoek 2: MRI-scan 2</td>
@@ -52,7 +52,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 	<tr id="r6">
 		<td> Bezoek 2: vragenlijsten + computertaken</td>
 		<td> Na 1 jaar</td>
-		<td> 1 uur </td>
+		<td> 2 uur </td>
 	</tr>
 </table>	
 <br>

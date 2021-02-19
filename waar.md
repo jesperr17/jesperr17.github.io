@@ -17,7 +17,6 @@ Het onderzoek zal plaatsvinden bij epilepsie- en slaapcentrum Kempenhaeghe in He
 <br> Sterkselseweg 65
 <br> 5591 VE Heeze
 <br> 040 2279022
-<br> >>EMAILADRES HIER INVOEGEN <<
 </p>
 </div>
 

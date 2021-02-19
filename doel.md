@@ -14,5 +14,5 @@ Het primaire doel van het NEUROTREND onderzoek is om <i>op basis van hersenscans
 <h2> Secundaire doel </h2>
 
 <div align="justify">
-<br><i>Het identificeren van depressie subtypes voor het selecteren van de juiste behandeling:</i> 
+<br>Onze secundaire doelstelling is <i>het identificeren van depressie subtypes voor het selecteren van de juiste behandeling:</i> 
 <br>Voor deze doelstelling zullen wij met behulp van vragenlijsten, cognitieve taakjes en de MRI-scans proberen om verschillende types depressie in kaart te brengen. Zo zou bijvoorbeeld een depressie met meer angstige symptomen misschiien beter kunnen reageren op een bepaalde behandelinig dan een depressie met meer cognitieve symptomen. Aan de hand van symptomen en hersenscans proberen we deze subtypes te identificeren. Vervolgens kijken we bij die subtypes welke behandeling wel of niet heeft geholpen. Door te onderzoeken welke behandeling bij welke depressie subtype goed aanslaat hopen we in de toekomst nauwkeuriger de optimale behandeling te kunnen selecteren. </div>

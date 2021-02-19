@@ -7,7 +7,7 @@ subtitle:
 
 
 <p style="text-align:center" >
-<img src="{{ 'img/milestones.png' | relative_url }}"  style = "width:80%" />
+<img src="{{ 'img/milestones_update.png' | relative_url }}"  style = "width:80%" />
 </p>
 
 <p style = "text-align: center">

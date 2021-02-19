@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Over
 subtitle: NEUROTREND
 ---
 <div align = "justify">

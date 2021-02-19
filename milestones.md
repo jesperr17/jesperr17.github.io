@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Milestones
+title: Mijlpalen
 subtitle:
 ---
 

@@ -92,12 +92,12 @@ label { margin-left: -50px;
     <label for="edulevel"> Huidig opleidingsniveau <sup>*</sup></label>
     <select id="edulevel" required="" name="edulevel">
     <option value="" selected="" disabled="">Maak een keuze</option>
-    <option value="">VMBO</option>
-    <option value="">HAVO</option>
-    <option value="">VWO</option>
-    <option value="">MBO</option>
-    <option value="">HBO</option>
-    <option value="">WO</option>
+    <option value="vmbo">VMBO</option>
+    <option value="havo">HAVO</option>
+    <option value="vwo">VWO</option>
+    <option value="mbo">MBO</option>
+    <option value="hbo">HBO</option>
+    <option value="wo">WO</option>
     </select><br>
 
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>

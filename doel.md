@@ -11,18 +11,8 @@ Het primaire doel van het NEUROTREND onderzoek is om <i>op basis van hersenscans
 </div>
 
 
-<h2> Secundaire doelen </h2>
-
-<div align="justify">
-De volgende secundaire doelen zijn opgesteld voor het NEUROTREND onderzoek. Deze kunnen bijdragen aan het beantwoorden van de hoofdvraag maar zullen ook inzicht geven in de relaties tussen MRI-biomarkers en depressiesubtypes en -symptomen. 
-</div> 
-
+<h2> Secundaire doel </h2>
 
 <ul><div align="justify">
-<br><li><i>Psychiatrische evaluatie van depressie en gerelateerde comorbiditeiten door middel van vragenlijsten en de (medische) voorgeschiedenis:</i> 
-<br>Voor deze doelstelling zullen we de op MRI-gebaseerde determinanten van comorbiditeiten en psychiatrische symptomen van depressie identificeren en evalueren. Dit willen we bereiken door bevindingen of veranderingen in de hersenen te onderzoeken en te correleren met uitkomstmaten van vragenlijsten en de (medische) voorgeschiedenis. De vragenlijsten en (medische) voorgeschiedenis kunnen comorbiditeiten of specifieke symptomen van de depressie aan het licht brengen, die mogelijk gecorreleerd zijn met hersenveranderingen of -bevindingen zoals te zien in MRI-scans. Een voorbeeld van een bevinding zou kunnen zijn dat activatie in de amgygdala geassocieerd is met depressie in combinatie met ernstige angstsymptomen. </li>
-
-
-<br><li><i>Cognitieve evaluatie van depressie door middel van eye-tracking en andere psychometrische bepalingen:</i> 
-<br>In deze doelstelling zullen we de op MRI-gebaseerde determinanten van cognitieve beperkingen bij depressie identificeren en evalueren. Dit willen we bereiken door bevindingen of veranderingen in de hersenen te onderzoeken en te correleren met uitkomstmaten van cognitieve tests en eye-tracking. Deze tests zouden de cognitieve beperkingen van depressie aan het licht kunnen brengen, die mogelijk zijn gecorreleerd met hersenveranderingen of -bevindingen zoals te zien in MRI-scans. Een voorbeeld van een bevinding zou kunnen zijn dat er een verminderde connectiviteit te zien is tussen hersengebieden die onderdeel zijn van een cognitief netwerk (bijvoorbeeld dorsal attention network) bij patiënten met cognitieve beperkingen tijdens een eye-track taak.</li>
-</div></ul>
+<br><li><i>Het identificeren van depressie subtypes voor het selecteren van de juiste behandeling:</i> 
+<br>Voor deze doelstelling zullen wij met behulp van vragenlijsten, cognitieve taakjes en de MRI-scans proberen om verschillende types depressie in kaart te brengen. Zo zou bijvoorbeeld een depressie met meer angstige symptomen misschiien beter kunnen reageren op een bepaalde behandelinig dan een depressie met meer cognitieve symptomen. Aan de hand van symptomen en hersenscans proberen we deze subtypes te identificeren. Vervolgens kijken we bij die subtypes welke behandeling wel of niet heeft geholpen. Door te onderzoeken welke behandeling bij welke depressie subtype goed aanslaat hopen we in de toekomst nauwkeuriger de optimale behandeling te kunnen selecteren. </li>

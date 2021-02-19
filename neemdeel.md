@@ -88,7 +88,18 @@ label { margin-left: -50px;
 
     <label for="age"> Leeftijd <sup>*</sup></label>
     <input type="text" name="Leeftijd" id="age" placeholder="Vul hier uw leeftijd in" required="">
-  
+ 
+    <label for="edulevel"> Huidig opleidingsniveau <sup>*</sup></label>
+    <select id="edulevel" required="" name="edulevel">
+    <option value="" selected="" disabled="">Maak een keuze</option>
+    <option value="">VMBO</option>
+    <option value="">HAVO</option>
+    <option value="">VWO</option>
+    <option value="">MBO</option>
+    <option value="">HBO</option>
+    <option value="">WO</option>
+    </select><br>
+
     <label for="onderzoeksgroep"> Ik neem deel als:  <sup>*</sup></label>
     <select id="onderzoeksgroep" required="" name="Onderzoeksgroep">
     <option value="" selected="" disabled="">Maak een keuze</option>

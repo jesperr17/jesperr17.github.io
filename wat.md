@@ -46,7 +46,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 	<tr id="r5">
 		<td> 3-maandelijks telefonisch gesprek (<i>let op:</i> alleen voor deelnemers met een depressie)</td>
 		<td> 3, 6 en 9 maanden na bezoek 1 </td>
-		<td style='font-size: 10px'> 3 x 30 min </td>
+		<td style='font-size: 16px'> 3 x 30 min </td>
 	</tr>
 	<tr id="r6">
 		<td> Bezoek 2: MRI-scan 2</td>

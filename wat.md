@@ -17,13 +17,12 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 <br><br>
 <style type="text/css">
   table          {border:solid 5px #404040;}
-  table td       {border:solid 10px #404040; padding: 10px; text-align: center; vertical-align: middle;}
-  table th       {padding: 10px; text-align: center; vertical-align: middle;}
+  table td       {border:solid 10px #404040; padding: 10px;}
+  table th       {padding: 10px;}
   table tr#r1  {background-color: #404040; color:white;}
-  table tr#r5  {font-size: 8;}
 </style>
 
-<table style = "width:100%" align="center">
+<table style = "width:100%;text-align: center;vertical-align: middle" align="center" >
 	<tr id="r1">
 		<th> Procedure </th>
 		<th> Tijdstip </th>
@@ -47,7 +46,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 	<tr id="r5">
 		<td> 3-maandelijks telefonisch gesprek (<i>let op:</i> alleen voor deelnemers met een depressie)</td>
 		<td> 3, 6 en 9 maanden na bezoek 1 </td>
-		<td> 3 x 30 min </td>
+		<td style='font-size: 10px'> 3 x 30 min </td>
 	</tr>
 	<tr id="r6">
 		<td> Bezoek 2: MRI-scan 2</td>

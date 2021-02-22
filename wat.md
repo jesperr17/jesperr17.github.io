@@ -45,8 +45,8 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 		<td> 2 uur</td>
 	</tr>
 	<tr id="r5">
-		<td> Na bezoek 1: Telefonisch gesprek (alleen voor deelnemers met een depressie)</td>
-		<td> Om de 3 maanden (in totaal 3 keer) </td>
+		<td> 3-maandelijks telefonisch gesprek (<i>let op:</i> alleen voor deelnemers met een depressie)</td>
+		<td> Na 3, 6 en 9 maanden na bezoek 1 </td>
 		<td> 3 x 30 min </td>
 	</tr>
 	<tr id="r6">

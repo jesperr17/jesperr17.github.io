@@ -5,7 +5,7 @@ subtitle: NEUROTREND
 ---
 <div align = "justify">
 <p>
-NEUROTREND (<b>Neuro</b>logical MRI-based biomarkers for <b>tre</b>atment <b>n</b>avigation in <b>d</b>epression) is een neuropsychologisch onderzoek met als doel het verbeteren van de selectie van de juiste behandelingsstragie voor depressie.
+NEUROTREND (<b>Neuro</b>logical MRI-based biomarkers for <b>tre</b>atment <b>n</b>avigation in <b>d</b>epression) is een neuropsychologisch onderzoek met als doel het verbeteren van de selectie van de juiste behandelingsstrategie voor depressie.
 
 <br><br>Major Depressive Disorder (MDD) is een veelvoorkomende psychische aandoening die wordt gekarakteriseerd door minimaal twee weken van abnormale somberheid en vaak gepaard gaat met onder andere het verlies van interesse en het onvermogen om ergens van te genieten. MDD kan leiden tot verminderde kwaliteit van leven en wordt geassocieerd met een verhoogd risico op morbiditeit en mortaliteit. 
 

@@ -20,7 +20,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
   table td       {border:solid 10px #404040; padding: 10px; text-align: center; vertical-align: middle;}
   table th       {padding: 10px; text-align: center; vertical-align: middle;}
   table tr#r1  {background-color: #404040; color:white;}
-  table tr#r5  {font-size: 10;}
+  table tr#r5  {font-size: 8;}
 </style>
 
 <table style = "width:100%" align="center">

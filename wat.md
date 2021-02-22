@@ -20,7 +20,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
   table td       {border:solid 10px #404040; padding: 10px; text-align: center; vertical-align: middle;}
   table th       {padding: 10px; text-align: center; vertical-align: middle;}
   table tr#r1  {background-color: #404040; color:white;}
-
+  table tr#r5  {font-size: 10;}
 </style>
 
 <table style = "width:100%" align="center">
@@ -46,7 +46,7 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 	</tr>
 	<tr id="r5">
 		<td> 3-maandelijks telefonisch gesprek (<i>let op:</i> alleen voor deelnemers met een depressie)</td>
-		<td> Na 3, 6 en 9 maanden na bezoek 1 </td>
+		<td> 3, 6 en 9 maanden na bezoek 1 </td>
 		<td> 3 x 30 min </td>
 	</tr>
 	<tr id="r6">

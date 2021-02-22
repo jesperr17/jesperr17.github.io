@@ -17,8 +17,8 @@ Nadat uw interesse in deelname aan het onderzoek kenbaar is gemaakt, zult u een 
 <br><br>
 <style type="text/css">
   table          {border:solid 5px #404040;}
-  table td       {border:solid 10px #404040; padding: 10px; text-align: center;, vertical-align: middle;}
-  table th       {padding: 10px; text-align: center;, vertical-align: middle;}
+  table td       {border:solid 10px #404040; padding: 10px; text-align: center; vertical-align: middle;}
+  table th       {padding: 10px; text-align: center; vertical-align: middle;}
   table tr#r1  {background-color: #404040; color:white;}
 
 </style>

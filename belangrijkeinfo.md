@@ -41,7 +41,7 @@ Ja, voor iedereen die meedoet aan dit onderzoek is een verzekering afgesloten. D
 
 			<br><br><h3> Wat zijn mogelijke nadelen van deelname aan dit onderzoek? </h3>
 
-Van een MRI onderzoek worden geen nadelige gevolgen verwacht omdat deze manier van beeldvorming geen straling gebruikt maar een elektromagnetisme.
+Van een MRI onderzoek worden geen nadelige gevolgen verwacht, omdat deze manier van beeldvorming geen straling gebruikt maar een grote magneet (elektromagnetisme). Ook zal er geen gebruik worden gemaakt van contrastvloeistof.
 
 			<br><br><h3> Is er een vergoeding voor deelname aan dit onderzoek? </h3>
 

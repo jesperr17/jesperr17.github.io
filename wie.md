@@ -20,6 +20,7 @@ Voor ons onderzoek zijn wij op zoek naar participanten met en zonder een depress
 		<li>U bent zwanger</li> 
 	</ul>
 </div>
+
 <div align="justify">
 	Exclusiecriteria specifiek voor de gezonde controle groep zijn onder andere:
 	<br><br>

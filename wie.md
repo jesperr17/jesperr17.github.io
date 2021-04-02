@@ -22,7 +22,7 @@ Voor ons onderzoek zijn wij op zoek naar participanten met en zonder een depress
 </div>
 
 <div align="justify">
-	<br>
+	<br><br>
 	Exclusiecriteria specifiek voor de gezonde controle groep zijn onder andere:
 	<br><br>
 	<ul>

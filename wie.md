@@ -18,9 +18,8 @@ Voor ons onderzoek zijn wij op zoek naar participanten met en zonder een depress
 		<li>U heeft eerder een hersenletsel of hersenbloeding gehad</li> 
 		<li>U heeft een pacemaker of implantaat die niet MRI veilig is</li> 
 		<li>U bent zwanger</li> 
-		<li><br></li>
 	</ul>
-</div>
+</div><br>
 <div align="justify">
 	Exclusiecriteria specifiek voor de gezonde controle groep zijn onder andere:
 	<br><br>

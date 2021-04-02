@@ -19,8 +19,7 @@ Voor ons onderzoek zijn wij op zoek naar participanten met en zonder een depress
 		<li>U heeft een pacemaker of implantaat die niet MRI veilig is</li> 
 		<li>U bent zwanger</li> 
 	</ul>
-</div> 
-<br>
+</div><br> 
 <div align="justify">
 	Exclusiecriteria specifiek voor de gezonde controle groep zijn onder andere:
 	<br><br>

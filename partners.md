@@ -37,7 +37,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
   <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}" />
   </a>
 </div>
-
+<p></p>
 
 <div class="container">
   <a href="https://www.philips.com/a-w/research/locations/eindhoven.html">  
@@ -47,7 +47,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
   <img src="{{ 'img/ggze_logo.png' | relative_url }}" style= "width:15%;margin-left:45%; " />
   </a>
 </div>
-
+<p></p>
 
 <div class="container">
   <a href="https://www.hoboheeze.nl/">	

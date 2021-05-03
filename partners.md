@@ -31,10 +31,10 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
 
 <div class="container">
   <a href="https://www.tue.nl/en/"> 	
-  <img src="{{ 'img/tuelogo.png' | relative_url }}" style= "width:45%;margin-left:5%;" />
+  <img src="{{ 'img/tuelogo.png' | relative_url }}" style= "width:40%;margin-left:5%;" />
   </a>
   <a href="https://www.kempenhaeghe.nl/">
-  <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}" style= "width:45%;margin-left:15%;" />
+  <img src="{{ 'img/kempenhaeghelogo.png' | relative_url }}" style= "width:40%;margin-left:15%;" />
   </a>
 </div>
 <p></p>

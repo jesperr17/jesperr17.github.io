@@ -38,6 +38,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
   </a>
 </div>
 <p></p>
+<br>
 
 <div class="container">
   <a href="https://www.philips.com/a-w/research/locations/eindhoven.html">  
@@ -48,6 +49,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
   </a>
 </div>
 <p></p>
+<br>
 
 <div class="container">
   <a href="https://www.hoboheeze.nl/">	

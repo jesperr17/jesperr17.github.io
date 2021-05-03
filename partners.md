@@ -41,7 +41,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
 
 <div class="container">
   <a href="https://www.philips.com/a-w/research/locations/eindhoven.html">  
-  <img src="{{ 'img/philipslogo.png' | relative_url }}" style= "width:15%margin-left:5%;"/>
+  <img src="{{ 'img/philipslogo.png' | relative_url }}" style= "width:10%margin-left:5%;"/>
   </a>
   <a href="https://ggze.nl/">
   <img src="{{ 'img/ggze_logo.png' | relative_url }}" style= "width:15%;margin-left:25%; " />

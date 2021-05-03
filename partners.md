@@ -44,7 +44,7 @@ De volgende partners nemen deel aan het NEUROTREND onderzoek:
   <img src="{{ 'img/philipslogo.png' | relative_url }}" style= "width:15%;margin-left:20%;"/>
   </a>
   <a href="https://ggze.nl/">
-  <img src="{{ 'img/ggze_logo.png' | relative_url }}" style= "width:12%;margin-left:40%; " />
+  <img src="{{ 'img/ggze_logo.png' | relative_url }}" style= "width:14%;margin-left:35%; " />
   </a>
 </div>
 <p></p>
